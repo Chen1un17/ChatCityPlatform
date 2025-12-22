@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+               xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <!-- 路网 -->
+        <net-file value="../sumo_network/newyork.net.xml"/>
+
+        <!-- 多种公共交通线路 -->
+        <route-files value="../sumo_network/subway_routes_complete.rou.xml,../sumo_network/bus_routes_complete.rou.xml,../sumo_network/rail_routes_complete.rou.xml,../sumo_output/ferry_routes.rou.xml"/>
+
+        <!-- 站点定义 -->
+        <additional-files value="../sumo_network/subway_stops_mapped.add.xml,../sumo_network/bus_stops_mapped.add.xml,../sumo_network/rail_stops_mapped.add.xml,../sumo_network/ferry_stops_mapped.add.xml"/>
+    </input>
+
+    <time>
+        <!-- 运行 3 小时用于回归测试，可根据需要调整 -->
+        <begin value="0"/>
+        <end value="10800"/>
+        <step-length value="1"/>
+    </time>
+
+    <processing>
+        <routing-algorithm value="dijkstra"/>
+        <device.rerouting.adaptation-steps value="180"/>
+        <device.rerouting.adaptation-interval value="10"/>
+        <time-to-teleport value="-1"/>
+    </processing>
+
+    <routing>
+        <device.rerouting.probability value="0"/>
+    </routing>
+
+    <report>
+        <verbose value="true"/>
+        <no-step-log value="true"/>
+        <duration-log.statistics value="true"/>
+    </report>
+
+    <output>
+        <summary-output value="pt_all_summary.xml"/>
+        <tripinfo-output value="pt_all_tripinfo.xml"/>
+        <vehroute-output value="pt_all_vehroutes.xml"/>
+    </output>
+
+</configuration>

@@ -1,0 +1,20 @@
+[
+  {
+    "personId": "nyc_p0",
+    "depart": 28800,
+    "fromEdge": "-221444645#0",
+    "toEdge": "46904145#3"
+  },
+  {
+    "personId": "nyc_p1",
+    "depart": 28860,
+    "fromEdge": "275634539#1",
+    "toEdge": "-552001379#0"
+  },
+  {
+    "personId": "nyc_p2",
+    "depart": 28920,
+    "fromEdge": "46904145#3",
+    "toEdge": "275634539#1"
+  }
+]

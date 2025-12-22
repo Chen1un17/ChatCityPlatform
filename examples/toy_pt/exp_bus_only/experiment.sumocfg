@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+  <input>
+    <net-file value="toy.net.xml" />
+    <route-files value="toy_pt_routes.rou.xml,person.rou.xml" />
+    <additional-files value="toy_pt_stops.add.xml" />
+  </input>
+  <time>
+    <begin value="0" />
+    <end value="3600" />
+    <step-length value="1" />
+  </time>
+  <processing>
+    <routing-algorithm value="dijkstra" />
+    <time-to-teleport value="-1" />
+  </processing>
+  <output>
+    <summary-output value="summary.xml" />
+    <tripinfo-output value="tripinfo.xml" />
+    <personinfo-output value="personinfo.xml" />
+    <vehroute-output value="vehroutes.xml" />
+  </output>
+</configuration>

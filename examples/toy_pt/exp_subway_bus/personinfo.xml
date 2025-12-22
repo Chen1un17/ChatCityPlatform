@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2025-12-16T23:53:03.393464+08:00 by Eclipse SUMO sumo 1.25.0
+<sumoConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="toy.net.xml"/>
+        <route-files value="toy_pt_routes.rou.xml,person.rou.xml"/>
+        <additional-files value="toy_pt_stops.add.xml"/>
+    </input>
+
+    <output>
+        <summary-output value="summary.xml"/>
+        <tripinfo-output value="tripinfo.xml"/>
+        <personinfo-output value="personinfo.xml"/>
+        <vehroute-output value="vehroutes.xml"/>
+    </output>
+
+    <time>
+        <begin value="0"/>
+        <end value="3600"/>
+        <step-length value="1"/>
+    </time>
+
+    <processing>
+        <time-to-teleport value="-1"/>
+    </processing>
+
+    <routing>
+        <routing-algorithm value="dijkstra"/>
+    </routing>
+
+</sumoConfiguration>
+-->
+
+<tripinfos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/tripinfo_file.xsd">
+    <personinfo id="p0" depart="0.00" type="DEFAULT_PEDTYPE" speedFactor="1.06" duration="283.00" waitingTime="170.00" timeLoss="22.10" traveltime="113.00">
+        <walk depart="0.00" departPos="0.00" arrival="23.00" arrivalPos="30.00" duration="23.00" routeLength="30.00" timeLoss="2.62" maxSpeed="1.47" waitingTime="0.00"/>
+        <ride waitingTime="37.00" vehicle="subway1_0" depart="60.00" arrival="84.00" arrivalPos="40.00" duration="24.00" routeLength="242.00" timeLoss="6.58"/>
+        <walk depart="84.00" departPos="40.00" arrival="107.00" arrivalPos="70.00" duration="23.00" routeLength="30.00" timeLoss="2.62" maxSpeed="1.47" waitingTime="0.00"/>
+        <ride waitingTime="133.00" vehicle="busB42_0" depart="240.00" arrival="266.00" arrivalPos="80.00" duration="26.00" routeLength="240.00" timeLoss="7.54"/>
+        <walk depart="266.00" departPos="80.00" arrival="283.00" arrivalPos="59.00" duration="17.00" routeLength="21.00" timeLoss="2.74" maxSpeed="1.47" waitingTime="0.00"/>
+    </personinfo>
+</tripinfos>

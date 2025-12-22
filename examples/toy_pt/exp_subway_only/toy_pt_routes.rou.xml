@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+  <vType id="pt_subway" vClass="bus" accel="1.2" decel="4.5" sigma="0" length="18" maxSpeed="16.0" personCapacity="250"/>
+  <vType id="pt_bus" vClass="bus" accel="1.0" decel="4.5" sigma="0" length="12" maxSpeed="13.0" personCapacity="80"/>
+
+  <route id="r_subway1" edges="A0B0 B0C0 C0D0"/>
+  <route id="r_busB42" edges="C0D0 D0E0 E0F0"/>
+
+  <vehicle id="subway1_0" type="pt_subway" route="r_subway1" line="1" depart="0">
+    <stop busStop="subway_stop_101S" until="60"/>
+    <stop busStop="subway_stop_205N" until="180"/>
+  </vehicle>
+
+  <vehicle id="busB42_0" type="pt_bus" route="r_busB42" line="B42" depart="180">
+    <stop busStop="bus_stop_303345" until="240"/>
+    <stop busStop="bus_stop_306405" until="420"/>
+  </vehicle>
+</routes>
+

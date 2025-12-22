@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <!-- 路网文件 -->
+        <net-file value="../sumo_network/newyork.net.xml"/>
+
+        <!-- 附加文件：站点定义 -->
+        <additional-files value="../sumo_network/subway_stops_mapped.add.xml"/>
+
+        <!-- 路线文件：地铁车辆和路线（已填充完整edges） -->
+        <route-files value="../sumo_network/subway_routes_complete.rou.xml"/>
+    </input>
+
+    <time>
+        <!-- 仿真时间：从凌晨开始，运行1小时（测试用） -->
+        <begin value="0"/>
+        <end value="3600"/>
+        <step-length value="1"/>
+    </time>
+
+    <processing>
+        <!-- 公共交通相关设置 -->
+        <routing-algorithm value="dijkstra"/>
+        <device.rerouting.adaptation-steps value="180"/>
+        <device.rerouting.adaptation-interval value="10"/>
+    </processing>
+
+    <routing>
+        <!-- 启用公共交通路由 -->
+        <device.rerouting.probability value="0"/>
+        <device.rerouting.pre-period value="0"/>
+    </routing>
+
+    <report>
+        <!-- 日志输出设置 -->
+        <verbose value="true"/>
+        <no-step-log value="false"/>
+        <duration-log.statistics value="true"/>
+        <no-warnings value="false"/>
+    </report>
+
+    <gui_only>
+        <!-- GUI专用设置（如果使用sumo-gui） -->
+        <gui-settings-file value=""/>
+        <start value="true"/>
+        <quit-on-end value="false"/>
+    </gui_only>
+
+    <output>
+        <!-- 仿真输出文件 -->
+        <tripinfo-output value="tripinfo.xml"/>
+        <vehroute-output value="vehroutes.xml"/>
+        <summary-output value="summary.xml"/>
+        <statistic-output value="statistics.xml"/>
+    </output>
+
+</configuration>

@@ -1,0 +1,15 @@
+{
+  "personId": "p0",
+  "depart": 0,
+  "legs": [
+    { "type": "walk", "from": { "edge": "A0B0" }, "to": { "busStop": "subway_stop_101S" } },
+    {
+      "type": "ride",
+      "from": { "busStop": "subway_stop_101S" },
+      "to": { "busStop": "subway_stop_205N" },
+      "lines": ["subway:1"]
+    },
+    { "type": "walk", "from": { "busStop": "subway_stop_205N" }, "to": { "edge": "C0D0" } }
+  ]
+}
+

@@ -1,0 +1,1994 @@
+route_id,route_short_name,stop_id,stop_name,sumo_stop_id
+1,1,101S,Van Cortlandt Park-242 St,subway_stop_101S
+1,1,103S,238 St,subway_stop_103S
+1,1,104S,231 St,subway_stop_104S
+1,1,106S,Marble Hill-225 St,subway_stop_106S
+1,1,107S,215 St,subway_stop_107S
+1,1,108S,207 St,subway_stop_108S
+1,1,109S,Dyckman St,subway_stop_109S
+1,1,110S,191 St,subway_stop_110S
+1,1,111S,181 St,subway_stop_111S
+1,1,112S,168 St-Washington Hts,subway_stop_112S
+1,1,113S,157 St,subway_stop_113S
+1,1,114S,145 St,subway_stop_114S
+1,1,115S,137 St-City College,subway_stop_115S
+1,1,116S,125 St,subway_stop_116S
+1,1,117S,116 St-Columbia University,subway_stop_117S
+1,1,118S,Cathedral Pkwy (110 St),subway_stop_118S
+1,1,119S,103 St,subway_stop_119S
+1,1,120S,96 St,subway_stop_120S
+1,1,121S,86 St,subway_stop_121S
+1,1,122S,79 St,subway_stop_122S
+1,1,123S,72 St,subway_stop_123S
+1,1,124S,66 St-Lincoln Center,subway_stop_124S
+1,1,125S,59 St-Columbus Circle,subway_stop_125S
+1,1,126S,50 St,subway_stop_126S
+1,1,127S,Times Sq-42 St,subway_stop_127S
+1,1,128S,34 St-Penn Station,subway_stop_128S
+1,1,129S,28 St,subway_stop_129S
+1,1,130S,23 St,subway_stop_130S
+1,1,131S,18 St,subway_stop_131S
+1,1,132S,14 St,subway_stop_132S
+1,1,133S,Christopher St-Sheridan Sq,subway_stop_133S
+1,1,134S,Houston St,subway_stop_134S
+1,1,135S,Canal St,subway_stop_135S
+1,1,136S,Franklin St,subway_stop_136S
+1,1,137S,Chambers St,subway_stop_137S
+1,1,138S,WTC Cortlandt,subway_stop_138S
+1,1,139S,Rector St,subway_stop_139S
+1,1,142S,South Ferry,subway_stop_142S
+1,1,142N,South Ferry,subway_stop_142N
+1,1,139N,Rector St,subway_stop_139N
+1,1,138N,WTC Cortlandt,subway_stop_138N
+1,1,137N,Chambers St,subway_stop_137N
+1,1,136N,Franklin St,subway_stop_136N
+1,1,135N,Canal St,subway_stop_135N
+1,1,134N,Houston St,subway_stop_134N
+1,1,133N,Christopher St-Sheridan Sq,subway_stop_133N
+1,1,132N,14 St,subway_stop_132N
+1,1,131N,18 St,subway_stop_131N
+1,1,130N,23 St,subway_stop_130N
+1,1,129N,28 St,subway_stop_129N
+1,1,128N,34 St-Penn Station,subway_stop_128N
+1,1,127N,Times Sq-42 St,subway_stop_127N
+1,1,126N,50 St,subway_stop_126N
+1,1,125N,59 St-Columbus Circle,subway_stop_125N
+1,1,124N,66 St-Lincoln Center,subway_stop_124N
+1,1,123N,72 St,subway_stop_123N
+1,1,122N,79 St,subway_stop_122N
+1,1,121N,86 St,subway_stop_121N
+1,1,120N,96 St,subway_stop_120N
+1,1,119N,103 St,subway_stop_119N
+1,1,118N,Cathedral Pkwy (110 St),subway_stop_118N
+1,1,117N,116 St-Columbia University,subway_stop_117N
+1,1,116N,125 St,subway_stop_116N
+1,1,115N,137 St-City College,subway_stop_115N
+1,1,114N,145 St,subway_stop_114N
+1,1,113N,157 St,subway_stop_113N
+1,1,112N,168 St-Washington Hts,subway_stop_112N
+1,1,111N,181 St,subway_stop_111N
+1,1,110N,191 St,subway_stop_110N
+1,1,109N,Dyckman St,subway_stop_109N
+1,1,108N,207 St,subway_stop_108N
+1,1,107N,215 St,subway_stop_107N
+1,1,106N,Marble Hill-225 St,subway_stop_106N
+1,1,104N,231 St,subway_stop_104N
+1,1,103N,238 St,subway_stop_103N
+1,1,101N,Van Cortlandt Park-242 St,subway_stop_101N
+2,2,201S,Wakefield-241 St,subway_stop_201S
+2,2,204S,Nereid Av,subway_stop_204S
+2,2,205S,233 St,subway_stop_205S
+2,2,206S,225 St,subway_stop_206S
+2,2,207S,219 St,subway_stop_207S
+2,2,208S,Gun Hill Rd,subway_stop_208S
+2,2,209S,Burke Av,subway_stop_209S
+2,2,210S,Allerton Av,subway_stop_210S
+2,2,211S,Pelham Pkwy,subway_stop_211S
+2,2,212S,Bronx Park East,subway_stop_212S
+2,2,213S,E 180 St,subway_stop_213S
+2,2,214S,West Farms Sq-E Tremont Av,subway_stop_214S
+2,2,215S,174 St,subway_stop_215S
+2,2,216S,Freeman St,subway_stop_216S
+2,2,217S,Simpson St,subway_stop_217S
+2,2,218S,Intervale Av,subway_stop_218S
+2,2,219S,Prospect Av,subway_stop_219S
+2,2,220S,Jackson Av,subway_stop_220S
+2,2,221S,3 Av-149 St,subway_stop_221S
+2,2,222S,149 St-Grand Concourse,subway_stop_222S
+2,2,224S,135 St,subway_stop_224S
+2,2,225S,125 St,subway_stop_225S
+2,2,226S,116 St,subway_stop_226S
+2,2,227S,Central Park North (110 St),subway_stop_227S
+2,2,120S,96 St,subway_stop_120S
+2,2,121S,86 St,subway_stop_121S
+2,2,122S,79 St,subway_stop_122S
+2,2,123S,72 St,subway_stop_123S
+2,2,124S,66 St-Lincoln Center,subway_stop_124S
+2,2,125S,59 St-Columbus Circle,subway_stop_125S
+2,2,126S,50 St,subway_stop_126S
+2,2,127S,Times Sq-42 St,subway_stop_127S
+2,2,128S,34 St-Penn Station,subway_stop_128S
+2,2,129S,28 St,subway_stop_129S
+2,2,130S,23 St,subway_stop_130S
+2,2,131S,18 St,subway_stop_131S
+2,2,132S,14 St,subway_stop_132S
+2,2,133S,Christopher St-Sheridan Sq,subway_stop_133S
+2,2,134S,Houston St,subway_stop_134S
+2,2,135S,Canal St,subway_stop_135S
+2,2,136S,Franklin St,subway_stop_136S
+2,2,137S,Chambers St,subway_stop_137S
+2,2,228S,Park Place,subway_stop_228S
+2,2,229S,Fulton St,subway_stop_229S
+2,2,230S,Wall St,subway_stop_230S
+2,2,231S,Clark St,subway_stop_231S
+2,2,232S,Borough Hall,subway_stop_232S
+2,2,233S,Hoyt St,subway_stop_233S
+2,2,234S,Nevins St,subway_stop_234S
+2,2,235S,Atlantic Av-Barclays Ctr,subway_stop_235S
+2,2,236S,Bergen St,subway_stop_236S
+2,2,237S,Grand Army Plaza,subway_stop_237S
+2,2,238S,Eastern Pkwy-Brooklyn Museum,subway_stop_238S
+2,2,239S,Franklin Av-Medgar Evers College,subway_stop_239S
+2,2,241S,President St-Medgar Evers College,subway_stop_241S
+2,2,242S,Sterling St,subway_stop_242S
+2,2,243S,Winthrop St,subway_stop_243S
+2,2,244S,Church Av,subway_stop_244S
+2,2,245S,Beverly Rd,subway_stop_245S
+2,2,246S,Newkirk Av-Little Haiti,subway_stop_246S
+2,2,247S,Flatbush Av-Brooklyn College,subway_stop_247S
+2,2,247N,Flatbush Av-Brooklyn College,subway_stop_247N
+2,2,246N,Newkirk Av-Little Haiti,subway_stop_246N
+2,2,245N,Beverly Rd,subway_stop_245N
+2,2,244N,Church Av,subway_stop_244N
+2,2,243N,Winthrop St,subway_stop_243N
+2,2,242N,Sterling St,subway_stop_242N
+2,2,241N,President St-Medgar Evers College,subway_stop_241N
+2,2,239N,Franklin Av-Medgar Evers College,subway_stop_239N
+2,2,238N,Eastern Pkwy-Brooklyn Museum,subway_stop_238N
+2,2,237N,Grand Army Plaza,subway_stop_237N
+2,2,236N,Bergen St,subway_stop_236N
+2,2,235N,Atlantic Av-Barclays Ctr,subway_stop_235N
+2,2,234N,Nevins St,subway_stop_234N
+2,2,233N,Hoyt St,subway_stop_233N
+2,2,232N,Borough Hall,subway_stop_232N
+2,2,231N,Clark St,subway_stop_231N
+2,2,230N,Wall St,subway_stop_230N
+2,2,229N,Fulton St,subway_stop_229N
+2,2,228N,Park Place,subway_stop_228N
+2,2,137N,Chambers St,subway_stop_137N
+2,2,136N,Franklin St,subway_stop_136N
+2,2,135N,Canal St,subway_stop_135N
+2,2,134N,Houston St,subway_stop_134N
+2,2,133N,Christopher St-Sheridan Sq,subway_stop_133N
+2,2,132N,14 St,subway_stop_132N
+2,2,131N,18 St,subway_stop_131N
+2,2,130N,23 St,subway_stop_130N
+2,2,129N,28 St,subway_stop_129N
+2,2,128N,34 St-Penn Station,subway_stop_128N
+2,2,127N,Times Sq-42 St,subway_stop_127N
+2,2,126N,50 St,subway_stop_126N
+2,2,125N,59 St-Columbus Circle,subway_stop_125N
+2,2,124N,66 St-Lincoln Center,subway_stop_124N
+2,2,123N,72 St,subway_stop_123N
+2,2,122N,79 St,subway_stop_122N
+2,2,121N,86 St,subway_stop_121N
+2,2,120N,96 St,subway_stop_120N
+2,2,227N,Central Park North (110 St),subway_stop_227N
+2,2,226N,116 St,subway_stop_226N
+2,2,225N,125 St,subway_stop_225N
+2,2,224N,135 St,subway_stop_224N
+2,2,222N,149 St-Grand Concourse,subway_stop_222N
+2,2,221N,3 Av-149 St,subway_stop_221N
+2,2,220N,Jackson Av,subway_stop_220N
+2,2,219N,Prospect Av,subway_stop_219N
+2,2,218N,Intervale Av,subway_stop_218N
+2,2,217N,Simpson St,subway_stop_217N
+2,2,216N,Freeman St,subway_stop_216N
+2,2,215N,174 St,subway_stop_215N
+2,2,214N,West Farms Sq-E Tremont Av,subway_stop_214N
+2,2,213N,E 180 St,subway_stop_213N
+2,2,212N,Bronx Park East,subway_stop_212N
+2,2,211N,Pelham Pkwy,subway_stop_211N
+2,2,210N,Allerton Av,subway_stop_210N
+2,2,209N,Burke Av,subway_stop_209N
+2,2,208N,Gun Hill Rd,subway_stop_208N
+2,2,207N,219 St,subway_stop_207N
+2,2,206N,225 St,subway_stop_206N
+2,2,205N,233 St,subway_stop_205N
+2,2,204N,Nereid Av,subway_stop_204N
+2,2,201N,Wakefield-241 St,subway_stop_201N
+2,2,248S,Nostrand Av,subway_stop_248S
+2,2,249S,Kingston Av,subway_stop_249S
+2,2,250S,Crown Hts-Utica Av,subway_stop_250S
+2,2,251S,Sutter Av-Rutland Rd,subway_stop_251S
+2,2,252S,Saratoga Av,subway_stop_252S
+2,2,253S,Rockaway Av,subway_stop_253S
+2,2,254S,Junius St,subway_stop_254S
+2,2,255S,Pennsylvania Av,subway_stop_255S
+2,2,256S,Van Siclen Av,subway_stop_256S
+2,2,257S,New Lots Av,subway_stop_257S
+2,2,257N,New Lots Av,subway_stop_257N
+2,2,256N,Van Siclen Av,subway_stop_256N
+2,2,255N,Pennsylvania Av,subway_stop_255N
+2,2,254N,Junius St,subway_stop_254N
+2,2,253N,Rockaway Av,subway_stop_253N
+2,2,252N,Saratoga Av,subway_stop_252N
+2,2,251N,Sutter Av-Rutland Rd,subway_stop_251N
+2,2,250N,Crown Hts-Utica Av,subway_stop_250N
+2,2,249N,Kingston Av,subway_stop_249N
+2,2,248N,Nostrand Av,subway_stop_248N
+3,3,301S,Harlem-148 St,subway_stop_301S
+3,3,302S,145 St,subway_stop_302S
+3,3,224S,135 St,subway_stop_224S
+3,3,225S,125 St,subway_stop_225S
+3,3,226S,116 St,subway_stop_226S
+3,3,227S,Central Park North (110 St),subway_stop_227S
+3,3,120S,96 St,subway_stop_120S
+3,3,123S,72 St,subway_stop_123S
+3,3,127S,Times Sq-42 St,subway_stop_127S
+3,3,128S,34 St-Penn Station,subway_stop_128S
+3,3,132S,14 St,subway_stop_132S
+3,3,137S,Chambers St,subway_stop_137S
+3,3,228S,Park Place,subway_stop_228S
+3,3,229S,Fulton St,subway_stop_229S
+3,3,230S,Wall St,subway_stop_230S
+3,3,231S,Clark St,subway_stop_231S
+3,3,232S,Borough Hall,subway_stop_232S
+3,3,233S,Hoyt St,subway_stop_233S
+3,3,234S,Nevins St,subway_stop_234S
+3,3,235S,Atlantic Av-Barclays Ctr,subway_stop_235S
+3,3,236S,Bergen St,subway_stop_236S
+3,3,237S,Grand Army Plaza,subway_stop_237S
+3,3,238S,Eastern Pkwy-Brooklyn Museum,subway_stop_238S
+3,3,239S,Franklin Av-Medgar Evers College,subway_stop_239S
+3,3,248S,Nostrand Av,subway_stop_248S
+3,3,249S,Kingston Av,subway_stop_249S
+3,3,250S,Crown Hts-Utica Av,subway_stop_250S
+3,3,251S,Sutter Av-Rutland Rd,subway_stop_251S
+3,3,252S,Saratoga Av,subway_stop_252S
+3,3,253S,Rockaway Av,subway_stop_253S
+3,3,254S,Junius St,subway_stop_254S
+3,3,255S,Pennsylvania Av,subway_stop_255S
+3,3,256S,Van Siclen Av,subway_stop_256S
+3,3,257S,New Lots Av,subway_stop_257S
+3,3,257N,New Lots Av,subway_stop_257N
+3,3,256N,Van Siclen Av,subway_stop_256N
+3,3,255N,Pennsylvania Av,subway_stop_255N
+3,3,254N,Junius St,subway_stop_254N
+3,3,253N,Rockaway Av,subway_stop_253N
+3,3,252N,Saratoga Av,subway_stop_252N
+3,3,251N,Sutter Av-Rutland Rd,subway_stop_251N
+3,3,250N,Crown Hts-Utica Av,subway_stop_250N
+3,3,249N,Kingston Av,subway_stop_249N
+3,3,248N,Nostrand Av,subway_stop_248N
+3,3,239N,Franklin Av-Medgar Evers College,subway_stop_239N
+3,3,238N,Eastern Pkwy-Brooklyn Museum,subway_stop_238N
+3,3,237N,Grand Army Plaza,subway_stop_237N
+3,3,236N,Bergen St,subway_stop_236N
+3,3,235N,Atlantic Av-Barclays Ctr,subway_stop_235N
+3,3,234N,Nevins St,subway_stop_234N
+3,3,233N,Hoyt St,subway_stop_233N
+3,3,232N,Borough Hall,subway_stop_232N
+3,3,231N,Clark St,subway_stop_231N
+3,3,230N,Wall St,subway_stop_230N
+3,3,229N,Fulton St,subway_stop_229N
+3,3,228N,Park Place,subway_stop_228N
+3,3,137N,Chambers St,subway_stop_137N
+3,3,132N,14 St,subway_stop_132N
+3,3,128N,34 St-Penn Station,subway_stop_128N
+3,3,127N,Times Sq-42 St,subway_stop_127N
+3,3,123N,72 St,subway_stop_123N
+3,3,120N,96 St,subway_stop_120N
+3,3,227N,Central Park North (110 St),subway_stop_227N
+3,3,226N,116 St,subway_stop_226N
+3,3,225N,125 St,subway_stop_225N
+3,3,224N,135 St,subway_stop_224N
+3,3,302N,145 St,subway_stop_302N
+3,3,301N,Harlem-148 St,subway_stop_301N
+4,4,401S,Woodlawn,subway_stop_401S
+4,4,402S,Mosholu Pkwy,subway_stop_402S
+4,4,405S,Bedford Park Blvd-Lehman College,subway_stop_405S
+4,4,406S,Kingsbridge Rd,subway_stop_406S
+4,4,407S,Fordham Rd,subway_stop_407S
+4,4,408S,183 St,subway_stop_408S
+4,4,409S,Burnside Av,subway_stop_409S
+4,4,410S,176 St,subway_stop_410S
+4,4,411S,Mt Eden Av,subway_stop_411S
+4,4,412S,170 St,subway_stop_412S
+4,4,413S,167 St,subway_stop_413S
+4,4,414S,161 St-Yankee Stadium,subway_stop_414S
+4,4,415S,149 St-Grand Concourse,subway_stop_415S
+4,4,416S,138 St-Grand Concourse,subway_stop_416S
+4,4,621S,125 St,subway_stop_621S
+4,4,626S,86 St,subway_stop_626S
+4,4,629S,59 St,subway_stop_629S
+4,4,631S,Grand Central-42 St,subway_stop_631S
+4,4,635S,14 St-Union Sq,subway_stop_635S
+4,4,640S,Brooklyn Bridge-City Hall,subway_stop_640S
+4,4,418S,Fulton St,subway_stop_418S
+4,4,419S,Wall St,subway_stop_419S
+4,4,420S,Bowling Green,subway_stop_420S
+4,4,423S,Borough Hall,subway_stop_423S
+4,4,234S,Nevins St,subway_stop_234S
+4,4,235S,Atlantic Av-Barclays Ctr,subway_stop_235S
+4,4,236S,Bergen St,subway_stop_236S
+4,4,237S,Grand Army Plaza,subway_stop_237S
+4,4,238S,Eastern Pkwy-Brooklyn Museum,subway_stop_238S
+4,4,239S,Franklin Av-Medgar Evers College,subway_stop_239S
+4,4,248S,Nostrand Av,subway_stop_248S
+4,4,249S,Kingston Av,subway_stop_249S
+4,4,250S,Crown Hts-Utica Av,subway_stop_250S
+4,4,251S,Sutter Av-Rutland Rd,subway_stop_251S
+4,4,252S,Saratoga Av,subway_stop_252S
+4,4,253S,Rockaway Av,subway_stop_253S
+4,4,254S,Junius St,subway_stop_254S
+4,4,255S,Pennsylvania Av,subway_stop_255S
+4,4,256S,Van Siclen Av,subway_stop_256S
+4,4,257S,New Lots Av,subway_stop_257S
+4,4,622S,116 St,subway_stop_622S
+4,4,623S,110 St,subway_stop_623S
+4,4,624S,103 St,subway_stop_624S
+4,4,625S,96 St,subway_stop_625S
+4,4,627S,77 St,subway_stop_627S
+4,4,628S,68 St-Hunter College,subway_stop_628S
+4,4,630S,51 St,subway_stop_630S
+4,4,632S,33 St,subway_stop_632S
+4,4,633S,28 St,subway_stop_633S
+4,4,634S,23 St,subway_stop_634S
+4,4,636S,Astor Pl,subway_stop_636S
+4,4,637S,Bleecker St,subway_stop_637S
+4,4,638S,Spring St,subway_stop_638S
+4,4,639S,Canal St,subway_stop_639S
+4,4,257N,New Lots Av,subway_stop_257N
+4,4,256N,Van Siclen Av,subway_stop_256N
+4,4,255N,Pennsylvania Av,subway_stop_255N
+4,4,254N,Junius St,subway_stop_254N
+4,4,253N,Rockaway Av,subway_stop_253N
+4,4,252N,Saratoga Av,subway_stop_252N
+4,4,251N,Sutter Av-Rutland Rd,subway_stop_251N
+4,4,250N,Crown Hts-Utica Av,subway_stop_250N
+4,4,249N,Kingston Av,subway_stop_249N
+4,4,248N,Nostrand Av,subway_stop_248N
+4,4,239N,Franklin Av-Medgar Evers College,subway_stop_239N
+4,4,238N,Eastern Pkwy-Brooklyn Museum,subway_stop_238N
+4,4,237N,Grand Army Plaza,subway_stop_237N
+4,4,236N,Bergen St,subway_stop_236N
+4,4,235N,Atlantic Av-Barclays Ctr,subway_stop_235N
+4,4,234N,Nevins St,subway_stop_234N
+4,4,423N,Borough Hall,subway_stop_423N
+4,4,420N,Bowling Green,subway_stop_420N
+4,4,419N,Wall St,subway_stop_419N
+4,4,418N,Fulton St,subway_stop_418N
+4,4,640N,Brooklyn Bridge-City Hall,subway_stop_640N
+4,4,639N,Canal St,subway_stop_639N
+4,4,638N,Spring St,subway_stop_638N
+4,4,637N,Bleecker St,subway_stop_637N
+4,4,636N,Astor Pl,subway_stop_636N
+4,4,635N,14 St-Union Sq,subway_stop_635N
+4,4,634N,23 St,subway_stop_634N
+4,4,633N,28 St,subway_stop_633N
+4,4,632N,33 St,subway_stop_632N
+4,4,631N,Grand Central-42 St,subway_stop_631N
+4,4,630N,51 St,subway_stop_630N
+4,4,629N,59 St,subway_stop_629N
+4,4,628N,68 St-Hunter College,subway_stop_628N
+4,4,627N,77 St,subway_stop_627N
+4,4,626N,86 St,subway_stop_626N
+4,4,625N,96 St,subway_stop_625N
+4,4,624N,103 St,subway_stop_624N
+4,4,623N,110 St,subway_stop_623N
+4,4,622N,116 St,subway_stop_622N
+4,4,621N,125 St,subway_stop_621N
+4,4,416N,138 St-Grand Concourse,subway_stop_416N
+4,4,415N,149 St-Grand Concourse,subway_stop_415N
+4,4,414N,161 St-Yankee Stadium,subway_stop_414N
+4,4,413N,167 St,subway_stop_413N
+4,4,412N,170 St,subway_stop_412N
+4,4,411N,Mt Eden Av,subway_stop_411N
+4,4,410N,176 St,subway_stop_410N
+4,4,409N,Burnside Av,subway_stop_409N
+4,4,408N,183 St,subway_stop_408N
+4,4,407N,Fordham Rd,subway_stop_407N
+4,4,406N,Kingsbridge Rd,subway_stop_406N
+4,4,405N,Bedford Park Blvd-Lehman College,subway_stop_405N
+4,4,402N,Mosholu Pkwy,subway_stop_402N
+4,4,401N,Woodlawn,subway_stop_401N
+5,5,501S,Eastchester-Dyre Av,subway_stop_501S
+5,5,502S,Baychester Av,subway_stop_502S
+5,5,503S,Gun Hill Rd,subway_stop_503S
+5,5,504S,Pelham Pkwy,subway_stop_504S
+5,5,505S,Morris Park,subway_stop_505S
+5,5,213S,E 180 St,subway_stop_213S
+5,5,214S,West Farms Sq-E Tremont Av,subway_stop_214S
+5,5,215S,174 St,subway_stop_215S
+5,5,216S,Freeman St,subway_stop_216S
+5,5,217S,Simpson St,subway_stop_217S
+5,5,218S,Intervale Av,subway_stop_218S
+5,5,219S,Prospect Av,subway_stop_219S
+5,5,220S,Jackson Av,subway_stop_220S
+5,5,221S,3 Av-149 St,subway_stop_221S
+5,5,222S,149 St-Grand Concourse,subway_stop_222S
+5,5,416S,138 St-Grand Concourse,subway_stop_416S
+5,5,621S,125 St,subway_stop_621S
+5,5,626S,86 St,subway_stop_626S
+5,5,629S,59 St,subway_stop_629S
+5,5,631S,Grand Central-42 St,subway_stop_631S
+5,5,635S,14 St-Union Sq,subway_stop_635S
+5,5,640S,Brooklyn Bridge-City Hall,subway_stop_640S
+5,5,418S,Fulton St,subway_stop_418S
+5,5,419S,Wall St,subway_stop_419S
+5,5,420S,Bowling Green,subway_stop_420S
+5,5,213N,E 180 St,subway_stop_213N
+5,5,505N,Morris Park,subway_stop_505N
+5,5,504N,Pelham Pkwy,subway_stop_504N
+5,5,503N,Gun Hill Rd,subway_stop_503N
+5,5,502N,Baychester Av,subway_stop_502N
+5,5,501N,Eastchester-Dyre Av,subway_stop_501N
+5,5,420N,Bowling Green,subway_stop_420N
+5,5,419N,Wall St,subway_stop_419N
+5,5,418N,Fulton St,subway_stop_418N
+5,5,640N,Brooklyn Bridge-City Hall,subway_stop_640N
+5,5,635N,14 St-Union Sq,subway_stop_635N
+5,5,631N,Grand Central-42 St,subway_stop_631N
+5,5,629N,59 St,subway_stop_629N
+5,5,626N,86 St,subway_stop_626N
+5,5,621N,125 St,subway_stop_621N
+5,5,416N,138 St-Grand Concourse,subway_stop_416N
+5,5,222N,149 St-Grand Concourse,subway_stop_222N
+5,5,221N,3 Av-149 St,subway_stop_221N
+5,5,220N,Jackson Av,subway_stop_220N
+5,5,219N,Prospect Av,subway_stop_219N
+5,5,218N,Intervale Av,subway_stop_218N
+5,5,217N,Simpson St,subway_stop_217N
+5,5,216N,Freeman St,subway_stop_216N
+5,5,215N,174 St,subway_stop_215N
+5,5,214N,West Farms Sq-E Tremont Av,subway_stop_214N
+5,5,247N,Flatbush Av-Brooklyn College,subway_stop_247N
+5,5,246N,Newkirk Av-Little Haiti,subway_stop_246N
+5,5,245N,Beverly Rd,subway_stop_245N
+5,5,244N,Church Av,subway_stop_244N
+5,5,243N,Winthrop St,subway_stop_243N
+5,5,242N,Sterling St,subway_stop_242N
+5,5,241N,President St-Medgar Evers College,subway_stop_241N
+5,5,239N,Franklin Av-Medgar Evers College,subway_stop_239N
+5,5,235N,Atlantic Av-Barclays Ctr,subway_stop_235N
+5,5,234N,Nevins St,subway_stop_234N
+5,5,423N,Borough Hall,subway_stop_423N
+5,5,208N,Gun Hill Rd,subway_stop_208N
+5,5,423S,Borough Hall,subway_stop_423S
+5,5,234S,Nevins St,subway_stop_234S
+5,5,235S,Atlantic Av-Barclays Ctr,subway_stop_235S
+5,5,239S,Franklin Av-Medgar Evers College,subway_stop_239S
+5,5,241S,President St-Medgar Evers College,subway_stop_241S
+5,5,242S,Sterling St,subway_stop_242S
+5,5,243S,Winthrop St,subway_stop_243S
+5,5,244S,Church Av,subway_stop_244S
+5,5,245S,Beverly Rd,subway_stop_245S
+5,5,246S,Newkirk Av-Little Haiti,subway_stop_246S
+5,5,247S,Flatbush Av-Brooklyn College,subway_stop_247S
+5,5,257N,New Lots Av,subway_stop_257N
+5,5,256N,Van Siclen Av,subway_stop_256N
+5,5,255N,Pennsylvania Av,subway_stop_255N
+5,5,254N,Junius St,subway_stop_254N
+5,5,253N,Rockaway Av,subway_stop_253N
+5,5,252N,Saratoga Av,subway_stop_252N
+5,5,251N,Sutter Av-Rutland Rd,subway_stop_251N
+5,5,250N,Crown Hts-Utica Av,subway_stop_250N
+5,5,250S,Crown Hts-Utica Av,subway_stop_250S
+5,5,212N,Bronx Park East,subway_stop_212N
+5,5,211N,Pelham Pkwy,subway_stop_211N
+5,5,210N,Allerton Av,subway_stop_210N
+5,5,209N,Burke Av,subway_stop_209N
+5,5,207N,219 St,subway_stop_207N
+5,5,206N,225 St,subway_stop_206N
+5,5,205N,233 St,subway_stop_205N
+5,5,204N,Nereid Av,subway_stop_204N
+5,5,204S,Nereid Av,subway_stop_204S
+5,5,205S,233 St,subway_stop_205S
+5,5,206S,225 St,subway_stop_206S
+5,5,207S,219 St,subway_stop_207S
+5,5,208S,Gun Hill Rd,subway_stop_208S
+5,5,209S,Burke Av,subway_stop_209S
+5,5,210S,Allerton Av,subway_stop_210S
+5,5,211S,Pelham Pkwy,subway_stop_211S
+5,5,212S,Bronx Park East,subway_stop_212S
+5,5,249N,Kingston Av,subway_stop_249N
+5,5,248N,Nostrand Av,subway_stop_248N
+6,6,601S,Pelham Bay Park,subway_stop_601S
+6,6,602S,Buhre Av,subway_stop_602S
+6,6,603S,Middletown Rd,subway_stop_603S
+6,6,604S,Westchester Sq-E Tremont Av,subway_stop_604S
+6,6,606S,Zerega Av,subway_stop_606S
+6,6,607S,Castle Hill Av,subway_stop_607S
+6,6,608S,Parkchester,subway_stop_608S
+6,6,609S,St Lawrence Av,subway_stop_609S
+6,6,610S,Morrison Av-Soundview,subway_stop_610S
+6,6,611S,Elder Av,subway_stop_611S
+6,6,612S,Whitlock Av,subway_stop_612S
+6,6,613S,Hunts Point Av,subway_stop_613S
+6,6,614S,Longwood Av,subway_stop_614S
+6,6,615S,E 149 St,subway_stop_615S
+6,6,616S,E 143 St-St Mary's St,subway_stop_616S
+6,6,617S,Cypress Av,subway_stop_617S
+6,6,618S,Brook Av,subway_stop_618S
+6,6,619S,3 Av-138 St,subway_stop_619S
+6,6,621S,125 St,subway_stop_621S
+6,6,622S,116 St,subway_stop_622S
+6,6,623S,110 St,subway_stop_623S
+6,6,624S,103 St,subway_stop_624S
+6,6,625S,96 St,subway_stop_625S
+6,6,626S,86 St,subway_stop_626S
+6,6,627S,77 St,subway_stop_627S
+6,6,628S,68 St-Hunter College,subway_stop_628S
+6,6,629S,59 St,subway_stop_629S
+6,6,630S,51 St,subway_stop_630S
+6,6,631S,Grand Central-42 St,subway_stop_631S
+6,6,632S,33 St,subway_stop_632S
+6,6,633S,28 St,subway_stop_633S
+6,6,634S,23 St,subway_stop_634S
+6,6,635S,14 St-Union Sq,subway_stop_635S
+6,6,636S,Astor Pl,subway_stop_636S
+6,6,637S,Bleecker St,subway_stop_637S
+6,6,638S,Spring St,subway_stop_638S
+6,6,639S,Canal St,subway_stop_639S
+6,6,640S,Brooklyn Bridge-City Hall,subway_stop_640S
+6,6,640N,Brooklyn Bridge-City Hall,subway_stop_640N
+6,6,639N,Canal St,subway_stop_639N
+6,6,638N,Spring St,subway_stop_638N
+6,6,637N,Bleecker St,subway_stop_637N
+6,6,636N,Astor Pl,subway_stop_636N
+6,6,635N,14 St-Union Sq,subway_stop_635N
+6,6,634N,23 St,subway_stop_634N
+6,6,633N,28 St,subway_stop_633N
+6,6,632N,33 St,subway_stop_632N
+6,6,631N,Grand Central-42 St,subway_stop_631N
+6,6,630N,51 St,subway_stop_630N
+6,6,629N,59 St,subway_stop_629N
+6,6,628N,68 St-Hunter College,subway_stop_628N
+6,6,627N,77 St,subway_stop_627N
+6,6,626N,86 St,subway_stop_626N
+6,6,625N,96 St,subway_stop_625N
+6,6,624N,103 St,subway_stop_624N
+6,6,623N,110 St,subway_stop_623N
+6,6,622N,116 St,subway_stop_622N
+6,6,621N,125 St,subway_stop_621N
+6,6,619N,3 Av-138 St,subway_stop_619N
+6,6,618N,Brook Av,subway_stop_618N
+6,6,617N,Cypress Av,subway_stop_617N
+6,6,616N,E 143 St-St Mary's St,subway_stop_616N
+6,6,615N,E 149 St,subway_stop_615N
+6,6,614N,Longwood Av,subway_stop_614N
+6,6,613N,Hunts Point Av,subway_stop_613N
+6,6,612N,Whitlock Av,subway_stop_612N
+6,6,611N,Elder Av,subway_stop_611N
+6,6,610N,Morrison Av-Soundview,subway_stop_610N
+6,6,609N,St Lawrence Av,subway_stop_609N
+6,6,608N,Parkchester,subway_stop_608N
+6,6,607N,Castle Hill Av,subway_stop_607N
+6,6,606N,Zerega Av,subway_stop_606N
+6,6,604N,Westchester Sq-E Tremont Av,subway_stop_604N
+6,6,603N,Middletown Rd,subway_stop_603N
+6,6,602N,Buhre Av,subway_stop_602N
+6,6,601N,Pelham Bay Park,subway_stop_601N
+6X,6X,601S,Pelham Bay Park,subway_stop_601S
+6X,6X,602S,Buhre Av,subway_stop_602S
+6X,6X,603S,Middletown Rd,subway_stop_603S
+6X,6X,604S,Westchester Sq-E Tremont Av,subway_stop_604S
+6X,6X,606S,Zerega Av,subway_stop_606S
+6X,6X,607S,Castle Hill Av,subway_stop_607S
+6X,6X,608S,Parkchester,subway_stop_608S
+6X,6X,613S,Hunts Point Av,subway_stop_613S
+6X,6X,619S,3 Av-138 St,subway_stop_619S
+6X,6X,621S,125 St,subway_stop_621S
+6X,6X,622S,116 St,subway_stop_622S
+6X,6X,623S,110 St,subway_stop_623S
+6X,6X,624S,103 St,subway_stop_624S
+6X,6X,625S,96 St,subway_stop_625S
+6X,6X,626S,86 St,subway_stop_626S
+6X,6X,627S,77 St,subway_stop_627S
+6X,6X,628S,68 St-Hunter College,subway_stop_628S
+6X,6X,629S,59 St,subway_stop_629S
+6X,6X,630S,51 St,subway_stop_630S
+6X,6X,631S,Grand Central-42 St,subway_stop_631S
+6X,6X,632S,33 St,subway_stop_632S
+6X,6X,633S,28 St,subway_stop_633S
+6X,6X,634S,23 St,subway_stop_634S
+6X,6X,635S,14 St-Union Sq,subway_stop_635S
+6X,6X,636S,Astor Pl,subway_stop_636S
+6X,6X,637S,Bleecker St,subway_stop_637S
+6X,6X,638S,Spring St,subway_stop_638S
+6X,6X,639S,Canal St,subway_stop_639S
+6X,6X,640S,Brooklyn Bridge-City Hall,subway_stop_640S
+6X,6X,640N,Brooklyn Bridge-City Hall,subway_stop_640N
+6X,6X,639N,Canal St,subway_stop_639N
+6X,6X,638N,Spring St,subway_stop_638N
+6X,6X,637N,Bleecker St,subway_stop_637N
+6X,6X,636N,Astor Pl,subway_stop_636N
+6X,6X,635N,14 St-Union Sq,subway_stop_635N
+6X,6X,634N,23 St,subway_stop_634N
+6X,6X,633N,28 St,subway_stop_633N
+6X,6X,632N,33 St,subway_stop_632N
+6X,6X,631N,Grand Central-42 St,subway_stop_631N
+6X,6X,630N,51 St,subway_stop_630N
+6X,6X,629N,59 St,subway_stop_629N
+6X,6X,628N,68 St-Hunter College,subway_stop_628N
+6X,6X,627N,77 St,subway_stop_627N
+6X,6X,626N,86 St,subway_stop_626N
+6X,6X,625N,96 St,subway_stop_625N
+6X,6X,624N,103 St,subway_stop_624N
+6X,6X,623N,110 St,subway_stop_623N
+6X,6X,622N,116 St,subway_stop_622N
+6X,6X,621N,125 St,subway_stop_621N
+6X,6X,619N,3 Av-138 St,subway_stop_619N
+6X,6X,613N,Hunts Point Av,subway_stop_613N
+6X,6X,608N,Parkchester,subway_stop_608N
+6X,6X,607N,Castle Hill Av,subway_stop_607N
+6X,6X,606N,Zerega Av,subway_stop_606N
+6X,6X,604N,Westchester Sq-E Tremont Av,subway_stop_604N
+6X,6X,603N,Middletown Rd,subway_stop_603N
+6X,6X,602N,Buhre Av,subway_stop_602N
+6X,6X,601N,Pelham Bay Park,subway_stop_601N
+6X,6X,609S,St Lawrence Av,subway_stop_609S
+6X,6X,610S,Morrison Av-Soundview,subway_stop_610S
+6X,6X,611S,Elder Av,subway_stop_611S
+6X,6X,612S,Whitlock Av,subway_stop_612S
+7,7,701S,Flushing-Main St,subway_stop_701S
+7,7,702S,Mets-Willets Point,subway_stop_702S
+7,7,705S,111 St,subway_stop_705S
+7,7,706S,103 St-Corona Plaza,subway_stop_706S
+7,7,707S,Junction Blvd,subway_stop_707S
+7,7,708S,90 St-Elmhurst Av,subway_stop_708S
+7,7,709S,82 St-Jackson Hts,subway_stop_709S
+7,7,710S,74 St-Broadway,subway_stop_710S
+7,7,711S,69 St,subway_stop_711S
+7,7,712S,61 St-Woodside,subway_stop_712S
+7,7,713S,52 St,subway_stop_713S
+7,7,714S,46 St-Bliss St,subway_stop_714S
+7,7,715S,40 St-Lowery St,subway_stop_715S
+7,7,716S,33 St-Rawson St,subway_stop_716S
+7,7,718S,Queensboro Plaza,subway_stop_718S
+7,7,719S,Court Sq,subway_stop_719S
+7,7,720S,Hunters Point Av,subway_stop_720S
+7,7,721S,Vernon Blvd-Jackson Av,subway_stop_721S
+7,7,723S,Grand Central-42 St,subway_stop_723S
+7,7,724S,5 Av,subway_stop_724S
+7,7,725S,Times Sq-42 St,subway_stop_725S
+7,7,726S,34 St-Hudson Yards,subway_stop_726S
+7,7,726N,34 St-Hudson Yards,subway_stop_726N
+7,7,725N,Times Sq-42 St,subway_stop_725N
+7,7,724N,5 Av,subway_stop_724N
+7,7,723N,Grand Central-42 St,subway_stop_723N
+7,7,721N,Vernon Blvd-Jackson Av,subway_stop_721N
+7,7,720N,Hunters Point Av,subway_stop_720N
+7,7,719N,Court Sq,subway_stop_719N
+7,7,718N,Queensboro Plaza,subway_stop_718N
+7,7,716N,33 St-Rawson St,subway_stop_716N
+7,7,715N,40 St-Lowery St,subway_stop_715N
+7,7,714N,46 St-Bliss St,subway_stop_714N
+7,7,713N,52 St,subway_stop_713N
+7,7,712N,61 St-Woodside,subway_stop_712N
+7,7,711N,69 St,subway_stop_711N
+7,7,710N,74 St-Broadway,subway_stop_710N
+7,7,709N,82 St-Jackson Hts,subway_stop_709N
+7,7,708N,90 St-Elmhurst Av,subway_stop_708N
+7,7,707N,Junction Blvd,subway_stop_707N
+7,7,706N,103 St-Corona Plaza,subway_stop_706N
+7,7,705N,111 St,subway_stop_705N
+7,7,702N,Mets-Willets Point,subway_stop_702N
+7,7,701N,Flushing-Main St,subway_stop_701N
+7X,7X,701S,Flushing-Main St,subway_stop_701S
+7X,7X,702S,Mets-Willets Point,subway_stop_702S
+7X,7X,707S,Junction Blvd,subway_stop_707S
+7X,7X,712S,61 St-Woodside,subway_stop_712S
+7X,7X,718S,Queensboro Plaza,subway_stop_718S
+7X,7X,719S,Court Sq,subway_stop_719S
+7X,7X,720S,Hunters Point Av,subway_stop_720S
+7X,7X,721S,Vernon Blvd-Jackson Av,subway_stop_721S
+7X,7X,723S,Grand Central-42 St,subway_stop_723S
+7X,7X,724S,5 Av,subway_stop_724S
+7X,7X,725S,Times Sq-42 St,subway_stop_725S
+7X,7X,726S,34 St-Hudson Yards,subway_stop_726S
+7X,7X,726N,34 St-Hudson Yards,subway_stop_726N
+7X,7X,725N,Times Sq-42 St,subway_stop_725N
+7X,7X,724N,5 Av,subway_stop_724N
+7X,7X,723N,Grand Central-42 St,subway_stop_723N
+7X,7X,721N,Vernon Blvd-Jackson Av,subway_stop_721N
+7X,7X,720N,Hunters Point Av,subway_stop_720N
+7X,7X,719N,Court Sq,subway_stop_719N
+7X,7X,718N,Queensboro Plaza,subway_stop_718N
+7X,7X,712N,61 St-Woodside,subway_stop_712N
+7X,7X,707N,Junction Blvd,subway_stop_707N
+7X,7X,702N,Mets-Willets Point,subway_stop_702N
+7X,7X,701N,Flushing-Main St,subway_stop_701N
+GS,S,902S,Times Sq-42 St,subway_stop_902S
+GS,S,901S,Grand Central-42 St,subway_stop_901S
+GS,S,901N,Grand Central-42 St,subway_stop_901N
+GS,S,902N,Times Sq-42 St,subway_stop_902N
+A,A,A02S,Inwood-207 St,subway_stop_A02S
+A,A,A03S,Dyckman St,subway_stop_A03S
+A,A,A05S,190 St,subway_stop_A05S
+A,A,A06S,181 St,subway_stop_A06S
+A,A,A07S,175 St,subway_stop_A07S
+A,A,A09S,168 St,subway_stop_A09S
+A,A,A10S,163 St-Amsterdam Av,subway_stop_A10S
+A,A,A11S,155 St,subway_stop_A11S
+A,A,A12S,145 St,subway_stop_A12S
+A,A,A14S,135 St,subway_stop_A14S
+A,A,A15S,125 St,subway_stop_A15S
+A,A,A16S,116 St,subway_stop_A16S
+A,A,A17S,Cathedral Pkwy (110 St),subway_stop_A17S
+A,A,A18S,103 St,subway_stop_A18S
+A,A,A19S,96 St,subway_stop_A19S
+A,A,A20S,86 St,subway_stop_A20S
+A,A,A21S,81 St-Museum of Natural History,subway_stop_A21S
+A,A,A22S,72 St,subway_stop_A22S
+A,A,A24S,59 St-Columbus Circle,subway_stop_A24S
+A,A,A25S,50 St,subway_stop_A25S
+A,A,A27S,42 St-Port Authority Bus Terminal,subway_stop_A27S
+A,A,A28S,34 St-Penn Station,subway_stop_A28S
+A,A,A30S,23 St,subway_stop_A30S
+A,A,A31S,14 St,subway_stop_A31S
+A,A,A32S,W 4 St-Wash Sq,subway_stop_A32S
+A,A,A33S,Spring St,subway_stop_A33S
+A,A,A34S,Canal St,subway_stop_A34S
+A,A,A36S,Chambers St,subway_stop_A36S
+A,A,A38S,Fulton St,subway_stop_A38S
+A,A,A40S,High St,subway_stop_A40S
+A,A,A41S,Jay St-MetroTech,subway_stop_A41S
+A,A,A42S,Hoyt-Schermerhorn Sts,subway_stop_A42S
+A,A,A43S,Lafayette Av,subway_stop_A43S
+A,A,A44S,Clinton-Washington Avs,subway_stop_A44S
+A,A,A45S,Franklin Av,subway_stop_A45S
+A,A,A46S,Nostrand Av,subway_stop_A46S
+A,A,A47S,Kingston-Throop Avs,subway_stop_A47S
+A,A,A48S,Utica Av,subway_stop_A48S
+A,A,A49S,Ralph Av,subway_stop_A49S
+A,A,A50S,Rockaway Av,subway_stop_A50S
+A,A,A51S,Broadway Junction,subway_stop_A51S
+A,A,A52S,Liberty Av,subway_stop_A52S
+A,A,A53S,Van Siclen Av,subway_stop_A53S
+A,A,A54S,Shepherd Av,subway_stop_A54S
+A,A,A55S,Euclid Av,subway_stop_A55S
+A,A,A57S,Grant Av,subway_stop_A57S
+A,A,A59S,80 St,subway_stop_A59S
+A,A,A60S,88 St,subway_stop_A60S
+A,A,A61S,Rockaway Blvd,subway_stop_A61S
+A,A,H02S,Aqueduct-N Conduit Av,subway_stop_H02S
+A,A,H03S,Howard Beach-JFK Airport,subway_stop_H03S
+A,A,H04S,Broad Channel,subway_stop_H04S
+A,A,H06S,Beach 67 St,subway_stop_H06S
+A,A,H07S,Beach 60 St,subway_stop_H07S
+A,A,H08S,Beach 44 St,subway_stop_H08S
+A,A,H09S,Beach 36 St,subway_stop_H09S
+A,A,H10S,Beach 25 St,subway_stop_H10S
+A,A,H11S,Far Rockaway-Mott Av,subway_stop_H11S
+A,A,A63S,104 St,subway_stop_A63S
+A,A,A64S,111 St,subway_stop_A64S
+A,A,A65S,Ozone Park-Lefferts Blvd,subway_stop_A65S
+A,A,H11N,Far Rockaway-Mott Av,subway_stop_H11N
+A,A,H10N,Beach 25 St,subway_stop_H10N
+A,A,H09N,Beach 36 St,subway_stop_H09N
+A,A,H08N,Beach 44 St,subway_stop_H08N
+A,A,H07N,Beach 60 St,subway_stop_H07N
+A,A,H06N,Beach 67 St,subway_stop_H06N
+A,A,H04N,Broad Channel,subway_stop_H04N
+A,A,H03N,Howard Beach-JFK Airport,subway_stop_H03N
+A,A,H02N,Aqueduct-N Conduit Av,subway_stop_H02N
+A,A,H01N,Aqueduct Racetrack,subway_stop_H01N
+A,A,A61N,Rockaway Blvd,subway_stop_A61N
+A,A,A60N,88 St,subway_stop_A60N
+A,A,A59N,80 St,subway_stop_A59N
+A,A,A57N,Grant Av,subway_stop_A57N
+A,A,A55N,Euclid Av,subway_stop_A55N
+A,A,A54N,Shepherd Av,subway_stop_A54N
+A,A,A53N,Van Siclen Av,subway_stop_A53N
+A,A,A52N,Liberty Av,subway_stop_A52N
+A,A,A51N,Broadway Junction,subway_stop_A51N
+A,A,A50N,Rockaway Av,subway_stop_A50N
+A,A,A49N,Ralph Av,subway_stop_A49N
+A,A,A48N,Utica Av,subway_stop_A48N
+A,A,A47N,Kingston-Throop Avs,subway_stop_A47N
+A,A,A46N,Nostrand Av,subway_stop_A46N
+A,A,A45N,Franklin Av,subway_stop_A45N
+A,A,A44N,Clinton-Washington Avs,subway_stop_A44N
+A,A,A43N,Lafayette Av,subway_stop_A43N
+A,A,A42N,Hoyt-Schermerhorn Sts,subway_stop_A42N
+A,A,A41N,Jay St-MetroTech,subway_stop_A41N
+A,A,A40N,High St,subway_stop_A40N
+A,A,A38N,Fulton St,subway_stop_A38N
+A,A,A36N,Chambers St,subway_stop_A36N
+A,A,A34N,Canal St,subway_stop_A34N
+A,A,A33N,Spring St,subway_stop_A33N
+A,A,A32N,W 4 St-Wash Sq,subway_stop_A32N
+A,A,A31N,14 St,subway_stop_A31N
+A,A,A30N,23 St,subway_stop_A30N
+A,A,A28N,34 St-Penn Station,subway_stop_A28N
+A,A,A27N,42 St-Port Authority Bus Terminal,subway_stop_A27N
+A,A,A25N,50 St,subway_stop_A25N
+A,A,A24N,59 St-Columbus Circle,subway_stop_A24N
+A,A,A22N,72 St,subway_stop_A22N
+A,A,A21N,81 St-Museum of Natural History,subway_stop_A21N
+A,A,A20N,86 St,subway_stop_A20N
+A,A,A19N,96 St,subway_stop_A19N
+A,A,A18N,103 St,subway_stop_A18N
+A,A,A17N,Cathedral Pkwy (110 St),subway_stop_A17N
+A,A,A16N,116 St,subway_stop_A16N
+A,A,A15N,125 St,subway_stop_A15N
+A,A,A14N,135 St,subway_stop_A14N
+A,A,A12N,145 St,subway_stop_A12N
+A,A,A11N,155 St,subway_stop_A11N
+A,A,A10N,163 St-Amsterdam Av,subway_stop_A10N
+A,A,A09N,168 St,subway_stop_A09N
+A,A,A07N,175 St,subway_stop_A07N
+A,A,A06N,181 St,subway_stop_A06N
+A,A,A05N,190 St,subway_stop_A05N
+A,A,A03N,Dyckman St,subway_stop_A03N
+A,A,A02N,Inwood-207 St,subway_stop_A02N
+A,A,A65N,Ozone Park-Lefferts Blvd,subway_stop_A65N
+A,A,A64N,111 St,subway_stop_A64N
+A,A,A63N,104 St,subway_stop_A63N
+A,A,H15N,Rockaway Park-Beach 116 St,subway_stop_H15N
+A,A,H14N,Beach 105 St,subway_stop_H14N
+A,A,H13N,Beach 98 St,subway_stop_H13N
+A,A,H12N,Beach 90 St,subway_stop_H12N
+A,A,H12S,Beach 90 St,subway_stop_H12S
+A,A,H13S,Beach 98 St,subway_stop_H13S
+A,A,H14S,Beach 105 St,subway_stop_H14S
+A,A,H15S,Rockaway Park-Beach 116 St,subway_stop_H15S
+B,B,D40N,Brighton Beach,subway_stop_D40N
+B,B,D39N,Sheepshead Bay,subway_stop_D39N
+B,B,D35N,Kings Hwy,subway_stop_D35N
+B,B,D31N,Newkirk Plaza,subway_stop_D31N
+B,B,D28N,Church Av,subway_stop_D28N
+B,B,D26N,Prospect Park,subway_stop_D26N
+B,B,D25N,7 Av,subway_stop_D25N
+B,B,D24N,Atlantic Av-Barclays Ctr,subway_stop_D24N
+B,B,R30N,DeKalb Av,subway_stop_R30N
+B,B,D22N,Grand St,subway_stop_D22N
+B,B,D21N,Broadway-Lafayette St,subway_stop_D21N
+B,B,D20N,W 4 St-Wash Sq,subway_stop_D20N
+B,B,D17N,34 St-Herald Sq,subway_stop_D17N
+B,B,D16N,42 St-Bryant Pk,subway_stop_D16N
+B,B,D15N,47-50 Sts-Rockefeller Ctr,subway_stop_D15N
+B,B,D14N,7 Av,subway_stop_D14N
+B,B,A24N,59 St-Columbus Circle,subway_stop_A24N
+B,B,A22N,72 St,subway_stop_A22N
+B,B,A21N,81 St-Museum of Natural History,subway_stop_A21N
+B,B,A20N,86 St,subway_stop_A20N
+B,B,A19N,96 St,subway_stop_A19N
+B,B,A18N,103 St,subway_stop_A18N
+B,B,A17N,Cathedral Pkwy (110 St),subway_stop_A17N
+B,B,A16N,116 St,subway_stop_A16N
+B,B,A15N,125 St,subway_stop_A15N
+B,B,A14N,135 St,subway_stop_A14N
+B,B,D13N,145 St,subway_stop_D13N
+B,B,D12N,155 St,subway_stop_D12N
+B,B,D11N,161 St-Yankee Stadium,subway_stop_D11N
+B,B,D10N,167 St,subway_stop_D10N
+B,B,D09N,170 St,subway_stop_D09N
+B,B,D08N,174-175 Sts,subway_stop_D08N
+B,B,D07N,Tremont Av,subway_stop_D07N
+B,B,D06N,182-183 Sts,subway_stop_D06N
+B,B,D05N,Fordham Rd,subway_stop_D05N
+B,B,D04N,Kingsbridge Rd,subway_stop_D04N
+B,B,D03N,Bedford Park Blvd,subway_stop_D03N
+B,B,D03S,Bedford Park Blvd,subway_stop_D03S
+B,B,D04S,Kingsbridge Rd,subway_stop_D04S
+B,B,D05S,Fordham Rd,subway_stop_D05S
+B,B,D06S,182-183 Sts,subway_stop_D06S
+B,B,D07S,Tremont Av,subway_stop_D07S
+B,B,D08S,174-175 Sts,subway_stop_D08S
+B,B,D09S,170 St,subway_stop_D09S
+B,B,D10S,167 St,subway_stop_D10S
+B,B,D11S,161 St-Yankee Stadium,subway_stop_D11S
+B,B,D12S,155 St,subway_stop_D12S
+B,B,D13S,145 St,subway_stop_D13S
+B,B,A14S,135 St,subway_stop_A14S
+B,B,A15S,125 St,subway_stop_A15S
+B,B,A16S,116 St,subway_stop_A16S
+B,B,A17S,Cathedral Pkwy (110 St),subway_stop_A17S
+B,B,A18S,103 St,subway_stop_A18S
+B,B,A19S,96 St,subway_stop_A19S
+B,B,A20S,86 St,subway_stop_A20S
+B,B,A21S,81 St-Museum of Natural History,subway_stop_A21S
+B,B,A22S,72 St,subway_stop_A22S
+B,B,A24S,59 St-Columbus Circle,subway_stop_A24S
+B,B,D14S,7 Av,subway_stop_D14S
+B,B,D15S,47-50 Sts-Rockefeller Ctr,subway_stop_D15S
+B,B,D16S,42 St-Bryant Pk,subway_stop_D16S
+B,B,D17S,34 St-Herald Sq,subway_stop_D17S
+B,B,D20S,W 4 St-Wash Sq,subway_stop_D20S
+B,B,D21S,Broadway-Lafayette St,subway_stop_D21S
+B,B,D22S,Grand St,subway_stop_D22S
+B,B,R30S,DeKalb Av,subway_stop_R30S
+B,B,D24S,Atlantic Av-Barclays Ctr,subway_stop_D24S
+B,B,D25S,7 Av,subway_stop_D25S
+B,B,D26S,Prospect Park,subway_stop_D26S
+B,B,D28S,Church Av,subway_stop_D28S
+B,B,D31S,Newkirk Plaza,subway_stop_D31S
+B,B,D35S,Kings Hwy,subway_stop_D35S
+B,B,D39S,Sheepshead Bay,subway_stop_D39S
+B,B,D40S,Brighton Beach,subway_stop_D40S
+B,B,A12N,145 St,subway_stop_A12N
+C,C,A09S,168 St,subway_stop_A09S
+C,C,A10S,163 St-Amsterdam Av,subway_stop_A10S
+C,C,A11S,155 St,subway_stop_A11S
+C,C,A12S,145 St,subway_stop_A12S
+C,C,A14S,135 St,subway_stop_A14S
+C,C,A15S,125 St,subway_stop_A15S
+C,C,A16S,116 St,subway_stop_A16S
+C,C,A17S,Cathedral Pkwy (110 St),subway_stop_A17S
+C,C,A18S,103 St,subway_stop_A18S
+C,C,A19S,96 St,subway_stop_A19S
+C,C,A20S,86 St,subway_stop_A20S
+C,C,A21S,81 St-Museum of Natural History,subway_stop_A21S
+C,C,A22S,72 St,subway_stop_A22S
+C,C,A24S,59 St-Columbus Circle,subway_stop_A24S
+C,C,A25S,50 St,subway_stop_A25S
+C,C,A27S,42 St-Port Authority Bus Terminal,subway_stop_A27S
+C,C,A28S,34 St-Penn Station,subway_stop_A28S
+C,C,A30S,23 St,subway_stop_A30S
+C,C,A31S,14 St,subway_stop_A31S
+C,C,A32S,W 4 St-Wash Sq,subway_stop_A32S
+C,C,A33S,Spring St,subway_stop_A33S
+C,C,A34S,Canal St,subway_stop_A34S
+C,C,A36S,Chambers St,subway_stop_A36S
+C,C,A38S,Fulton St,subway_stop_A38S
+C,C,A40S,High St,subway_stop_A40S
+C,C,A41S,Jay St-MetroTech,subway_stop_A41S
+C,C,A42S,Hoyt-Schermerhorn Sts,subway_stop_A42S
+C,C,A43S,Lafayette Av,subway_stop_A43S
+C,C,A44S,Clinton-Washington Avs,subway_stop_A44S
+C,C,A45S,Franklin Av,subway_stop_A45S
+C,C,A46S,Nostrand Av,subway_stop_A46S
+C,C,A47S,Kingston-Throop Avs,subway_stop_A47S
+C,C,A48S,Utica Av,subway_stop_A48S
+C,C,A49S,Ralph Av,subway_stop_A49S
+C,C,A50S,Rockaway Av,subway_stop_A50S
+C,C,A51S,Broadway Junction,subway_stop_A51S
+C,C,A52S,Liberty Av,subway_stop_A52S
+C,C,A53S,Van Siclen Av,subway_stop_A53S
+C,C,A54S,Shepherd Av,subway_stop_A54S
+C,C,A55S,Euclid Av,subway_stop_A55S
+C,C,A55N,Euclid Av,subway_stop_A55N
+C,C,A54N,Shepherd Av,subway_stop_A54N
+C,C,A53N,Van Siclen Av,subway_stop_A53N
+C,C,A52N,Liberty Av,subway_stop_A52N
+C,C,A51N,Broadway Junction,subway_stop_A51N
+C,C,A50N,Rockaway Av,subway_stop_A50N
+C,C,A49N,Ralph Av,subway_stop_A49N
+C,C,A48N,Utica Av,subway_stop_A48N
+C,C,A47N,Kingston-Throop Avs,subway_stop_A47N
+C,C,A46N,Nostrand Av,subway_stop_A46N
+C,C,A45N,Franklin Av,subway_stop_A45N
+C,C,A44N,Clinton-Washington Avs,subway_stop_A44N
+C,C,A43N,Lafayette Av,subway_stop_A43N
+C,C,A42N,Hoyt-Schermerhorn Sts,subway_stop_A42N
+C,C,A41N,Jay St-MetroTech,subway_stop_A41N
+C,C,A40N,High St,subway_stop_A40N
+C,C,A38N,Fulton St,subway_stop_A38N
+C,C,A36N,Chambers St,subway_stop_A36N
+C,C,A34N,Canal St,subway_stop_A34N
+C,C,A33N,Spring St,subway_stop_A33N
+C,C,A32N,W 4 St-Wash Sq,subway_stop_A32N
+C,C,A31N,14 St,subway_stop_A31N
+C,C,A30N,23 St,subway_stop_A30N
+C,C,A28N,34 St-Penn Station,subway_stop_A28N
+C,C,A27N,42 St-Port Authority Bus Terminal,subway_stop_A27N
+C,C,A25N,50 St,subway_stop_A25N
+C,C,A24N,59 St-Columbus Circle,subway_stop_A24N
+C,C,A22N,72 St,subway_stop_A22N
+C,C,A21N,81 St-Museum of Natural History,subway_stop_A21N
+C,C,A20N,86 St,subway_stop_A20N
+C,C,A19N,96 St,subway_stop_A19N
+C,C,A18N,103 St,subway_stop_A18N
+C,C,A17N,Cathedral Pkwy (110 St),subway_stop_A17N
+C,C,A16N,116 St,subway_stop_A16N
+C,C,A15N,125 St,subway_stop_A15N
+C,C,A14N,135 St,subway_stop_A14N
+C,C,A12N,145 St,subway_stop_A12N
+C,C,A11N,155 St,subway_stop_A11N
+C,C,A10N,163 St-Amsterdam Av,subway_stop_A10N
+C,C,A09N,168 St,subway_stop_A09N
+D,D,D01S,Norwood-205 St,subway_stop_D01S
+D,D,D03S,Bedford Park Blvd,subway_stop_D03S
+D,D,D04S,Kingsbridge Rd,subway_stop_D04S
+D,D,D05S,Fordham Rd,subway_stop_D05S
+D,D,D06S,182-183 Sts,subway_stop_D06S
+D,D,D07S,Tremont Av,subway_stop_D07S
+D,D,D08S,174-175 Sts,subway_stop_D08S
+D,D,D09S,170 St,subway_stop_D09S
+D,D,D10S,167 St,subway_stop_D10S
+D,D,D11S,161 St-Yankee Stadium,subway_stop_D11S
+D,D,D12S,155 St,subway_stop_D12S
+D,D,D13S,145 St,subway_stop_D13S
+D,D,A15S,125 St,subway_stop_A15S
+D,D,A24S,59 St-Columbus Circle,subway_stop_A24S
+D,D,D14S,7 Av,subway_stop_D14S
+D,D,D15S,47-50 Sts-Rockefeller Ctr,subway_stop_D15S
+D,D,D16S,42 St-Bryant Pk,subway_stop_D16S
+D,D,D17S,34 St-Herald Sq,subway_stop_D17S
+D,D,D20S,W 4 St-Wash Sq,subway_stop_D20S
+D,D,D21S,Broadway-Lafayette St,subway_stop_D21S
+D,D,D22S,Grand St,subway_stop_D22S
+D,D,R30S,DeKalb Av,subway_stop_R30S
+D,D,R31S,Atlantic Av-Barclays Ctr,subway_stop_R31S
+D,D,R32S,Union St,subway_stop_R32S
+D,D,R33S,4 Av-9 St,subway_stop_R33S
+D,D,R34S,Prospect Av,subway_stop_R34S
+D,D,R35S,25 St,subway_stop_R35S
+D,D,R36S,36 St,subway_stop_R36S
+D,D,B12S,9 Av,subway_stop_B12S
+D,D,B13S,Fort Hamilton Pkwy,subway_stop_B13S
+D,D,B14S,50 St,subway_stop_B14S
+D,D,B15S,55 St,subway_stop_B15S
+D,D,B16S,62 St,subway_stop_B16S
+D,D,B17S,71 St,subway_stop_B17S
+D,D,B18S,79 St,subway_stop_B18S
+D,D,B19S,18 Av,subway_stop_B19S
+D,D,B20S,20 Av,subway_stop_B20S
+D,D,B21S,Bay Pkwy,subway_stop_B21S
+D,D,B22S,25 Av,subway_stop_B22S
+D,D,B23S,Bay 50 St,subway_stop_B23S
+D,D,D43S,Coney Island-Stillwell Av,subway_stop_D43S
+D,D,D43N,Coney Island-Stillwell Av,subway_stop_D43N
+D,D,B23N,Bay 50 St,subway_stop_B23N
+D,D,B22N,25 Av,subway_stop_B22N
+D,D,B21N,Bay Pkwy,subway_stop_B21N
+D,D,B20N,20 Av,subway_stop_B20N
+D,D,B19N,18 Av,subway_stop_B19N
+D,D,B18N,79 St,subway_stop_B18N
+D,D,B17N,71 St,subway_stop_B17N
+D,D,B16N,62 St,subway_stop_B16N
+D,D,B15N,55 St,subway_stop_B15N
+D,D,B14N,50 St,subway_stop_B14N
+D,D,B13N,Fort Hamilton Pkwy,subway_stop_B13N
+D,D,B12N,9 Av,subway_stop_B12N
+D,D,R36N,36 St,subway_stop_R36N
+D,D,R35N,25 St,subway_stop_R35N
+D,D,R34N,Prospect Av,subway_stop_R34N
+D,D,R33N,4 Av-9 St,subway_stop_R33N
+D,D,R32N,Union St,subway_stop_R32N
+D,D,R31N,Atlantic Av-Barclays Ctr,subway_stop_R31N
+D,D,R30N,DeKalb Av,subway_stop_R30N
+D,D,D22N,Grand St,subway_stop_D22N
+D,D,D21N,Broadway-Lafayette St,subway_stop_D21N
+D,D,D20N,W 4 St-Wash Sq,subway_stop_D20N
+D,D,D17N,34 St-Herald Sq,subway_stop_D17N
+D,D,D16N,42 St-Bryant Pk,subway_stop_D16N
+D,D,D15N,47-50 Sts-Rockefeller Ctr,subway_stop_D15N
+D,D,D14N,7 Av,subway_stop_D14N
+D,D,A24N,59 St-Columbus Circle,subway_stop_A24N
+D,D,A15N,125 St,subway_stop_A15N
+D,D,D13N,145 St,subway_stop_D13N
+D,D,D12N,155 St,subway_stop_D12N
+D,D,D11N,161 St-Yankee Stadium,subway_stop_D11N
+D,D,D10N,167 St,subway_stop_D10N
+D,D,D09N,170 St,subway_stop_D09N
+D,D,D08N,174-175 Sts,subway_stop_D08N
+D,D,D07N,Tremont Av,subway_stop_D07N
+D,D,D06N,182-183 Sts,subway_stop_D06N
+D,D,D05N,Fordham Rd,subway_stop_D05N
+D,D,D04N,Kingsbridge Rd,subway_stop_D04N
+D,D,D03N,Bedford Park Blvd,subway_stop_D03N
+D,D,D01N,Norwood-205 St,subway_stop_D01N
+E,E,G05S,Jamaica Center-Parsons/Archer,subway_stop_G05S
+E,E,G06S,Sutphin Blvd-Archer Av-JFK Airport,subway_stop_G06S
+E,E,G07S,Jamaica-Van Wyck,subway_stop_G07S
+E,E,F05S,Briarwood,subway_stop_F05S
+E,E,F06S,Kew Gardens-Union Tpke,subway_stop_F06S
+E,E,F07S,75 Av,subway_stop_F07S
+E,E,G08S,Forest Hills-71 Av,subway_stop_G08S
+E,E,G09S,67 Av,subway_stop_G09S
+E,E,G10S,63 Dr-Rego Park,subway_stop_G10S
+E,E,G11S,Woodhaven Blvd,subway_stop_G11S
+E,E,G12S,Grand Av-Newtown,subway_stop_G12S
+E,E,G13S,Elmhurst Av,subway_stop_G13S
+E,E,G14S,Jackson Hts-Roosevelt Av,subway_stop_G14S
+E,E,G15S,65 St,subway_stop_G15S
+E,E,G16S,Northern Blvd,subway_stop_G16S
+E,E,G18S,46 St,subway_stop_G18S
+E,E,G19S,Steinway St,subway_stop_G19S
+E,E,G20S,36 St,subway_stop_G20S
+E,E,G21S,Queens Plaza,subway_stop_G21S
+E,E,F09S,Court Sq-23 St,subway_stop_F09S
+E,E,F11S,Lexington Av/53 St,subway_stop_F11S
+E,E,F12S,5 Av/53 St,subway_stop_F12S
+E,E,D14S,7 Av,subway_stop_D14S
+E,E,A25S,50 St,subway_stop_A25S
+E,E,A27S,42 St-Port Authority Bus Terminal,subway_stop_A27S
+E,E,A28S,34 St-Penn Station,subway_stop_A28S
+E,E,A30S,23 St,subway_stop_A30S
+E,E,A31S,14 St,subway_stop_A31S
+E,E,A32S,W 4 St-Wash Sq,subway_stop_A32S
+E,E,A33S,Spring St,subway_stop_A33S
+E,E,A34S,Canal St,subway_stop_A34S
+E,E,E01S,World Trade Center,subway_stop_E01S
+E,E,E01N,World Trade Center,subway_stop_E01N
+E,E,A34N,Canal St,subway_stop_A34N
+E,E,A33N,Spring St,subway_stop_A33N
+E,E,A32N,W 4 St-Wash Sq,subway_stop_A32N
+E,E,A31N,14 St,subway_stop_A31N
+E,E,A30N,23 St,subway_stop_A30N
+E,E,A28N,34 St-Penn Station,subway_stop_A28N
+E,E,A27N,42 St-Port Authority Bus Terminal,subway_stop_A27N
+E,E,A25N,50 St,subway_stop_A25N
+E,E,D14N,7 Av,subway_stop_D14N
+E,E,F12N,5 Av/53 St,subway_stop_F12N
+E,E,F11N,Lexington Av/53 St,subway_stop_F11N
+E,E,F09N,Court Sq-23 St,subway_stop_F09N
+E,E,G21N,Queens Plaza,subway_stop_G21N
+E,E,G20N,36 St,subway_stop_G20N
+E,E,G19N,Steinway St,subway_stop_G19N
+E,E,G18N,46 St,subway_stop_G18N
+E,E,G16N,Northern Blvd,subway_stop_G16N
+E,E,G15N,65 St,subway_stop_G15N
+E,E,G14N,Jackson Hts-Roosevelt Av,subway_stop_G14N
+E,E,G13N,Elmhurst Av,subway_stop_G13N
+E,E,G12N,Grand Av-Newtown,subway_stop_G12N
+E,E,G11N,Woodhaven Blvd,subway_stop_G11N
+E,E,G10N,63 Dr-Rego Park,subway_stop_G10N
+E,E,G09N,67 Av,subway_stop_G09N
+E,E,G08N,Forest Hills-71 Av,subway_stop_G08N
+E,E,F07N,75 Av,subway_stop_F07N
+E,E,F06N,Kew Gardens-Union Tpke,subway_stop_F06N
+E,E,F05N,Briarwood,subway_stop_F05N
+E,E,G07N,Jamaica-Van Wyck,subway_stop_G07N
+E,E,G06N,Sutphin Blvd-Archer Av-JFK Airport,subway_stop_G06N
+E,E,G05N,Jamaica Center-Parsons/Archer,subway_stop_G05N
+E,E,F01S,Jamaica-179 St,subway_stop_F01S
+E,E,F03S,Parsons Blvd,subway_stop_F03S
+E,E,F03N,Parsons Blvd,subway_stop_F03N
+E,E,F01N,Jamaica-179 St,subway_stop_F01N
+E,E,F04N,Sutphin Blvd,subway_stop_F04N
+E,E,F02N,169 St,subway_stop_F02N
+F,F,D43N,Coney Island-Stillwell Av,subway_stop_D43N
+F,F,D42N,W 8 St-NY Aquarium,subway_stop_D42N
+F,F,F39N,Neptune Av,subway_stop_F39N
+F,F,F38N,Avenue X,subway_stop_F38N
+F,F,F36N,Avenue U,subway_stop_F36N
+F,F,F35N,Kings Hwy,subway_stop_F35N
+F,F,F34N,Avenue P,subway_stop_F34N
+F,F,F33N,Avenue N,subway_stop_F33N
+F,F,F32N,Bay Pkwy,subway_stop_F32N
+F,F,F31N,Avenue I,subway_stop_F31N
+F,F,F30N,18 Av,subway_stop_F30N
+F,F,F29N,Ditmas Av,subway_stop_F29N
+F,F,F27N,Church Av,subway_stop_F27N
+F,F,F26N,Fort Hamilton Pkwy,subway_stop_F26N
+F,F,F25N,15 St-Prospect Park,subway_stop_F25N
+F,F,F24N,7 Av,subway_stop_F24N
+F,F,F23N,4 Av-9 St,subway_stop_F23N
+F,F,F22N,Smith-9 Sts,subway_stop_F22N
+F,F,F21N,Carroll St,subway_stop_F21N
+F,F,F20N,Bergen St,subway_stop_F20N
+F,F,A41N,Jay St-MetroTech,subway_stop_A41N
+F,F,F18N,York St,subway_stop_F18N
+F,F,F16N,East Broadway,subway_stop_F16N
+F,F,F15N,Delancey St-Essex St,subway_stop_F15N
+F,F,F14N,2 Av,subway_stop_F14N
+F,F,D21N,Broadway-Lafayette St,subway_stop_D21N
+F,F,D20N,W 4 St-Wash Sq,subway_stop_D20N
+F,F,D19N,14 St,subway_stop_D19N
+F,F,D18N,23 St,subway_stop_D18N
+F,F,D17N,34 St-Herald Sq,subway_stop_D17N
+F,F,D16N,42 St-Bryant Pk,subway_stop_D16N
+F,F,D15N,47-50 Sts-Rockefeller Ctr,subway_stop_D15N
+F,F,B10N,57 St,subway_stop_B10N
+F,F,B08N,Lexington Av/63 St,subway_stop_B08N
+F,F,B06N,Roosevelt Island,subway_stop_B06N
+F,F,B04N,21 St-Queensbridge,subway_stop_B04N
+F,F,G14N,Jackson Hts-Roosevelt Av,subway_stop_G14N
+F,F,G08N,Forest Hills-71 Av,subway_stop_G08N
+F,F,F07N,75 Av,subway_stop_F07N
+F,F,F06N,Kew Gardens-Union Tpke,subway_stop_F06N
+F,F,F05N,Briarwood,subway_stop_F05N
+F,F,F04N,Sutphin Blvd,subway_stop_F04N
+F,F,F03N,Parsons Blvd,subway_stop_F03N
+F,F,F02N,169 St,subway_stop_F02N
+F,F,F01N,Jamaica-179 St,subway_stop_F01N
+F,F,F01S,Jamaica-179 St,subway_stop_F01S
+F,F,F02S,169 St,subway_stop_F02S
+F,F,F03S,Parsons Blvd,subway_stop_F03S
+F,F,F04S,Sutphin Blvd,subway_stop_F04S
+F,F,F05S,Briarwood,subway_stop_F05S
+F,F,F06S,Kew Gardens-Union Tpke,subway_stop_F06S
+F,F,F07S,75 Av,subway_stop_F07S
+F,F,G08S,Forest Hills-71 Av,subway_stop_G08S
+F,F,G14S,Jackson Hts-Roosevelt Av,subway_stop_G14S
+F,F,B04S,21 St-Queensbridge,subway_stop_B04S
+F,F,B06S,Roosevelt Island,subway_stop_B06S
+F,F,B08S,Lexington Av/63 St,subway_stop_B08S
+F,F,B10S,57 St,subway_stop_B10S
+F,F,D15S,47-50 Sts-Rockefeller Ctr,subway_stop_D15S
+F,F,D16S,42 St-Bryant Pk,subway_stop_D16S
+F,F,D17S,34 St-Herald Sq,subway_stop_D17S
+F,F,D18S,23 St,subway_stop_D18S
+F,F,D19S,14 St,subway_stop_D19S
+F,F,D20S,W 4 St-Wash Sq,subway_stop_D20S
+F,F,D21S,Broadway-Lafayette St,subway_stop_D21S
+F,F,F14S,2 Av,subway_stop_F14S
+F,F,F15S,Delancey St-Essex St,subway_stop_F15S
+F,F,F16S,East Broadway,subway_stop_F16S
+F,F,F18S,York St,subway_stop_F18S
+F,F,A41S,Jay St-MetroTech,subway_stop_A41S
+F,F,F20S,Bergen St,subway_stop_F20S
+F,F,F21S,Carroll St,subway_stop_F21S
+F,F,F22S,Smith-9 Sts,subway_stop_F22S
+F,F,F23S,4 Av-9 St,subway_stop_F23S
+F,F,F24S,7 Av,subway_stop_F24S
+F,F,F25S,15 St-Prospect Park,subway_stop_F25S
+F,F,F26S,Fort Hamilton Pkwy,subway_stop_F26S
+F,F,F27S,Church Av,subway_stop_F27S
+F,F,F29S,Ditmas Av,subway_stop_F29S
+F,F,F30S,18 Av,subway_stop_F30S
+F,F,F31S,Avenue I,subway_stop_F31S
+F,F,F32S,Bay Pkwy,subway_stop_F32S
+F,F,F33S,Avenue N,subway_stop_F33S
+F,F,F34S,Avenue P,subway_stop_F34S
+F,F,F35S,Kings Hwy,subway_stop_F35S
+F,F,F36S,Avenue U,subway_stop_F36S
+F,F,F38S,Avenue X,subway_stop_F38S
+F,F,F39S,Neptune Av,subway_stop_F39S
+F,F,D42S,W 8 St-NY Aquarium,subway_stop_D42S
+F,F,D43S,Coney Island-Stillwell Av,subway_stop_D43S
+FX,FX,F01S,Jamaica-179 St,subway_stop_F01S
+FX,FX,F02S,169 St,subway_stop_F02S
+FX,FX,F03S,Parsons Blvd,subway_stop_F03S
+FX,FX,F04S,Sutphin Blvd,subway_stop_F04S
+FX,FX,F05S,Briarwood,subway_stop_F05S
+FX,FX,F06S,Kew Gardens-Union Tpke,subway_stop_F06S
+FX,FX,F07S,75 Av,subway_stop_F07S
+FX,FX,G08S,Forest Hills-71 Av,subway_stop_G08S
+FX,FX,G14S,Jackson Hts-Roosevelt Av,subway_stop_G14S
+FX,FX,B04S,21 St-Queensbridge,subway_stop_B04S
+FX,FX,B06S,Roosevelt Island,subway_stop_B06S
+FX,FX,B08S,Lexington Av/63 St,subway_stop_B08S
+FX,FX,B10S,57 St,subway_stop_B10S
+FX,FX,D15S,47-50 Sts-Rockefeller Ctr,subway_stop_D15S
+FX,FX,D16S,42 St-Bryant Pk,subway_stop_D16S
+FX,FX,D17S,34 St-Herald Sq,subway_stop_D17S
+FX,FX,D18S,23 St,subway_stop_D18S
+FX,FX,D19S,14 St,subway_stop_D19S
+FX,FX,D20S,W 4 St-Wash Sq,subway_stop_D20S
+FX,FX,D21S,Broadway-Lafayette St,subway_stop_D21S
+FX,FX,F14S,2 Av,subway_stop_F14S
+FX,FX,F15S,Delancey St-Essex St,subway_stop_F15S
+FX,FX,F16S,East Broadway,subway_stop_F16S
+FX,FX,F18S,York St,subway_stop_F18S
+FX,FX,A41S,Jay St-MetroTech,subway_stop_A41S
+FX,FX,F24S,7 Av,subway_stop_F24S
+FX,FX,F27S,Church Av,subway_stop_F27S
+FX,FX,F29S,Ditmas Av,subway_stop_F29S
+FX,FX,F30S,18 Av,subway_stop_F30S
+FX,FX,F31S,Avenue I,subway_stop_F31S
+FX,FX,F32S,Bay Pkwy,subway_stop_F32S
+FX,FX,F33S,Avenue N,subway_stop_F33S
+FX,FX,F34S,Avenue P,subway_stop_F34S
+FX,FX,F35S,Kings Hwy,subway_stop_F35S
+FX,FX,F36S,Avenue U,subway_stop_F36S
+FX,FX,F38S,Avenue X,subway_stop_F38S
+FX,FX,F39S,Neptune Av,subway_stop_F39S
+FX,FX,D42S,W 8 St-NY Aquarium,subway_stop_D42S
+FX,FX,D43S,Coney Island-Stillwell Av,subway_stop_D43S
+FX,FX,D43N,Coney Island-Stillwell Av,subway_stop_D43N
+FX,FX,D42N,W 8 St-NY Aquarium,subway_stop_D42N
+FX,FX,F39N,Neptune Av,subway_stop_F39N
+FX,FX,F38N,Avenue X,subway_stop_F38N
+FX,FX,F36N,Avenue U,subway_stop_F36N
+FX,FX,F35N,Kings Hwy,subway_stop_F35N
+FX,FX,F34N,Avenue P,subway_stop_F34N
+FX,FX,F33N,Avenue N,subway_stop_F33N
+FX,FX,F32N,Bay Pkwy,subway_stop_F32N
+FX,FX,F31N,Avenue I,subway_stop_F31N
+FX,FX,F30N,18 Av,subway_stop_F30N
+FX,FX,F29N,Ditmas Av,subway_stop_F29N
+FX,FX,F27N,Church Av,subway_stop_F27N
+FX,FX,F24N,7 Av,subway_stop_F24N
+FX,FX,A41N,Jay St-MetroTech,subway_stop_A41N
+FX,FX,F18N,York St,subway_stop_F18N
+FX,FX,F16N,East Broadway,subway_stop_F16N
+FX,FX,F15N,Delancey St-Essex St,subway_stop_F15N
+FX,FX,F14N,2 Av,subway_stop_F14N
+FX,FX,D21N,Broadway-Lafayette St,subway_stop_D21N
+FX,FX,D20N,W 4 St-Wash Sq,subway_stop_D20N
+FX,FX,D19N,14 St,subway_stop_D19N
+FX,FX,D18N,23 St,subway_stop_D18N
+FX,FX,D17N,34 St-Herald Sq,subway_stop_D17N
+FX,FX,D16N,42 St-Bryant Pk,subway_stop_D16N
+FX,FX,D15N,47-50 Sts-Rockefeller Ctr,subway_stop_D15N
+FX,FX,B10N,57 St,subway_stop_B10N
+FX,FX,B08N,Lexington Av/63 St,subway_stop_B08N
+FX,FX,B06N,Roosevelt Island,subway_stop_B06N
+FX,FX,B04N,21 St-Queensbridge,subway_stop_B04N
+FX,FX,G14N,Jackson Hts-Roosevelt Av,subway_stop_G14N
+FX,FX,G08N,Forest Hills-71 Av,subway_stop_G08N
+FX,FX,F07N,75 Av,subway_stop_F07N
+FX,FX,F06N,Kew Gardens-Union Tpke,subway_stop_F06N
+FX,FX,F05N,Briarwood,subway_stop_F05N
+FX,FX,F04N,Sutphin Blvd,subway_stop_F04N
+FX,FX,F03N,Parsons Blvd,subway_stop_F03N
+FX,FX,F02N,169 St,subway_stop_F02N
+FX,FX,F01N,Jamaica-179 St,subway_stop_F01N
+FS,S,S01S,Franklin Av,subway_stop_S01S
+FS,S,S03S,Park Pl,subway_stop_S03S
+FS,S,S04S,Botanic Garden,subway_stop_S04S
+FS,S,D26S,Prospect Park,subway_stop_D26S
+FS,S,D26N,Prospect Park,subway_stop_D26N
+FS,S,S04N,Botanic Garden,subway_stop_S04N
+FS,S,S03N,Park Pl,subway_stop_S03N
+FS,S,S01N,Franklin Av,subway_stop_S01N
+G,G,G22S,Court Sq,subway_stop_G22S
+G,G,G24S,21 St,subway_stop_G24S
+G,G,G26S,Greenpoint Av,subway_stop_G26S
+G,G,G28S,Nassau Av,subway_stop_G28S
+G,G,G29S,Metropolitan Av,subway_stop_G29S
+G,G,G30S,Broadway,subway_stop_G30S
+G,G,G31S,Flushing Av,subway_stop_G31S
+G,G,G32S,Myrtle-Willoughby Avs,subway_stop_G32S
+G,G,G33S,Bedford-Nostrand Avs,subway_stop_G33S
+G,G,G34S,Classon Av,subway_stop_G34S
+G,G,G35S,Clinton-Washington Avs,subway_stop_G35S
+G,G,G36S,Fulton St,subway_stop_G36S
+G,G,A42S,Hoyt-Schermerhorn Sts,subway_stop_A42S
+G,G,F20S,Bergen St,subway_stop_F20S
+G,G,F21S,Carroll St,subway_stop_F21S
+G,G,F22S,Smith-9 Sts,subway_stop_F22S
+G,G,F23S,4 Av-9 St,subway_stop_F23S
+G,G,F24S,7 Av,subway_stop_F24S
+G,G,F25S,15 St-Prospect Park,subway_stop_F25S
+G,G,F26S,Fort Hamilton Pkwy,subway_stop_F26S
+G,G,F27S,Church Av,subway_stop_F27S
+G,G,F27N,Church Av,subway_stop_F27N
+G,G,F26N,Fort Hamilton Pkwy,subway_stop_F26N
+G,G,F25N,15 St-Prospect Park,subway_stop_F25N
+G,G,F24N,7 Av,subway_stop_F24N
+G,G,F23N,4 Av-9 St,subway_stop_F23N
+G,G,F22N,Smith-9 Sts,subway_stop_F22N
+G,G,F21N,Carroll St,subway_stop_F21N
+G,G,F20N,Bergen St,subway_stop_F20N
+G,G,A42N,Hoyt-Schermerhorn Sts,subway_stop_A42N
+G,G,G36N,Fulton St,subway_stop_G36N
+G,G,G35N,Clinton-Washington Avs,subway_stop_G35N
+G,G,G34N,Classon Av,subway_stop_G34N
+G,G,G33N,Bedford-Nostrand Avs,subway_stop_G33N
+G,G,G32N,Myrtle-Willoughby Avs,subway_stop_G32N
+G,G,G31N,Flushing Av,subway_stop_G31N
+G,G,G30N,Broadway,subway_stop_G30N
+G,G,G29N,Metropolitan Av,subway_stop_G29N
+G,G,G28N,Nassau Av,subway_stop_G28N
+G,G,G26N,Greenpoint Av,subway_stop_G26N
+G,G,G24N,21 St,subway_stop_G24N
+G,G,G22N,Court Sq,subway_stop_G22N
+H,S,H04S,Broad Channel,subway_stop_H04S
+H,S,H12S,Beach 90 St,subway_stop_H12S
+H,S,H13S,Beach 98 St,subway_stop_H13S
+H,S,H14S,Beach 105 St,subway_stop_H14S
+H,S,H15S,Rockaway Park-Beach 116 St,subway_stop_H15S
+H,S,H15N,Rockaway Park-Beach 116 St,subway_stop_H15N
+H,S,H14N,Beach 105 St,subway_stop_H14N
+H,S,H13N,Beach 98 St,subway_stop_H13N
+H,S,H12N,Beach 90 St,subway_stop_H12N
+H,S,H04N,Broad Channel,subway_stop_H04N
+J,J,G05S,Jamaica Center-Parsons/Archer,subway_stop_G05S
+J,J,G06S,Sutphin Blvd-Archer Av-JFK Airport,subway_stop_G06S
+J,J,J12S,121 St,subway_stop_J12S
+J,J,J13S,111 St,subway_stop_J13S
+J,J,J14S,104 St,subway_stop_J14S
+J,J,J15S,Woodhaven Blvd,subway_stop_J15S
+J,J,J16S,85 St-Forest Pkwy,subway_stop_J16S
+J,J,J17S,75 St-Elderts Ln,subway_stop_J17S
+J,J,J19S,Cypress Hills,subway_stop_J19S
+J,J,J20S,Crescent St,subway_stop_J20S
+J,J,J21S,Norwood Av,subway_stop_J21S
+J,J,J22S,Cleveland St,subway_stop_J22S
+J,J,J23S,Van Siclen Av,subway_stop_J23S
+J,J,J24S,Alabama Av,subway_stop_J24S
+J,J,J27S,Broadway Junction,subway_stop_J27S
+J,J,J28S,Chauncey St,subway_stop_J28S
+J,J,J29S,Halsey St,subway_stop_J29S
+J,J,J30S,Gates Av,subway_stop_J30S
+J,J,J31S,Kosciuszko St,subway_stop_J31S
+J,J,M11S,Myrtle Av,subway_stop_M11S
+J,J,M12S,Flushing Av,subway_stop_M12S
+J,J,M13S,Lorimer St,subway_stop_M13S
+J,J,M14S,Hewes St,subway_stop_M14S
+J,J,M16S,Marcy Av,subway_stop_M16S
+J,J,M18S,Delancey St-Essex St,subway_stop_M18S
+J,J,M19S,Bowery,subway_stop_M19S
+J,J,M20S,Canal St,subway_stop_M20S
+J,J,M21S,Chambers St,subway_stop_M21S
+J,J,M22S,Fulton St,subway_stop_M22S
+J,J,M23S,Broad St,subway_stop_M23S
+J,J,M23N,Broad St,subway_stop_M23N
+J,J,M22N,Fulton St,subway_stop_M22N
+J,J,M21N,Chambers St,subway_stop_M21N
+J,J,M20N,Canal St,subway_stop_M20N
+J,J,M19N,Bowery,subway_stop_M19N
+J,J,M18N,Delancey St-Essex St,subway_stop_M18N
+J,J,M16N,Marcy Av,subway_stop_M16N
+J,J,M14N,Hewes St,subway_stop_M14N
+J,J,M13N,Lorimer St,subway_stop_M13N
+J,J,M12N,Flushing Av,subway_stop_M12N
+J,J,M11N,Myrtle Av,subway_stop_M11N
+J,J,J31N,Kosciuszko St,subway_stop_J31N
+J,J,J30N,Gates Av,subway_stop_J30N
+J,J,J29N,Halsey St,subway_stop_J29N
+J,J,J28N,Chauncey St,subway_stop_J28N
+J,J,J27N,Broadway Junction,subway_stop_J27N
+J,J,J24N,Alabama Av,subway_stop_J24N
+J,J,J23N,Van Siclen Av,subway_stop_J23N
+J,J,J22N,Cleveland St,subway_stop_J22N
+J,J,J21N,Norwood Av,subway_stop_J21N
+J,J,J20N,Crescent St,subway_stop_J20N
+J,J,J19N,Cypress Hills,subway_stop_J19N
+J,J,J17N,75 St-Elderts Ln,subway_stop_J17N
+J,J,J16N,85 St-Forest Pkwy,subway_stop_J16N
+J,J,J15N,Woodhaven Blvd,subway_stop_J15N
+J,J,J14N,104 St,subway_stop_J14N
+J,J,J13N,111 St,subway_stop_J13N
+J,J,J12N,121 St,subway_stop_J12N
+J,J,G06N,Sutphin Blvd-Archer Av-JFK Airport,subway_stop_G06N
+J,J,G05N,Jamaica Center-Parsons/Archer,subway_stop_G05N
+Z,Z,G05S,Jamaica Center-Parsons/Archer,subway_stop_G05S
+Z,Z,G06S,Sutphin Blvd-Archer Av-JFK Airport,subway_stop_G06S
+Z,Z,J12S,121 St,subway_stop_J12S
+Z,Z,J14S,104 St,subway_stop_J14S
+Z,Z,J15S,Woodhaven Blvd,subway_stop_J15S
+Z,Z,J17S,75 St-Elderts Ln,subway_stop_J17S
+Z,Z,J20S,Crescent St,subway_stop_J20S
+Z,Z,J21S,Norwood Av,subway_stop_J21S
+Z,Z,J23S,Van Siclen Av,subway_stop_J23S
+Z,Z,J24S,Alabama Av,subway_stop_J24S
+Z,Z,J27S,Broadway Junction,subway_stop_J27S
+Z,Z,J28S,Chauncey St,subway_stop_J28S
+Z,Z,J30S,Gates Av,subway_stop_J30S
+Z,Z,M11S,Myrtle Av,subway_stop_M11S
+Z,Z,M16S,Marcy Av,subway_stop_M16S
+Z,Z,M18S,Delancey St-Essex St,subway_stop_M18S
+Z,Z,M19S,Bowery,subway_stop_M19S
+Z,Z,M20S,Canal St,subway_stop_M20S
+Z,Z,M21S,Chambers St,subway_stop_M21S
+Z,Z,M22S,Fulton St,subway_stop_M22S
+Z,Z,M23S,Broad St,subway_stop_M23S
+Z,Z,M23N,Broad St,subway_stop_M23N
+Z,Z,M22N,Fulton St,subway_stop_M22N
+Z,Z,M21N,Chambers St,subway_stop_M21N
+Z,Z,M20N,Canal St,subway_stop_M20N
+Z,Z,M19N,Bowery,subway_stop_M19N
+Z,Z,M18N,Delancey St-Essex St,subway_stop_M18N
+Z,Z,M16N,Marcy Av,subway_stop_M16N
+Z,Z,M11N,Myrtle Av,subway_stop_M11N
+Z,Z,J30N,Gates Av,subway_stop_J30N
+Z,Z,J28N,Chauncey St,subway_stop_J28N
+Z,Z,J27N,Broadway Junction,subway_stop_J27N
+Z,Z,J24N,Alabama Av,subway_stop_J24N
+Z,Z,J23N,Van Siclen Av,subway_stop_J23N
+Z,Z,J21N,Norwood Av,subway_stop_J21N
+Z,Z,J20N,Crescent St,subway_stop_J20N
+Z,Z,J17N,75 St-Elderts Ln,subway_stop_J17N
+Z,Z,J15N,Woodhaven Blvd,subway_stop_J15N
+Z,Z,J14N,104 St,subway_stop_J14N
+Z,Z,J12N,121 St,subway_stop_J12N
+Z,Z,G06N,Sutphin Blvd-Archer Av-JFK Airport,subway_stop_G06N
+Z,Z,G05N,Jamaica Center-Parsons/Archer,subway_stop_G05N
+L,L,L29N,Canarsie-Rockaway Pkwy,subway_stop_L29N
+L,L,L28N,East 105 St,subway_stop_L28N
+L,L,L27N,New Lots Av,subway_stop_L27N
+L,L,L26N,Livonia Av,subway_stop_L26N
+L,L,L25N,Sutter Av,subway_stop_L25N
+L,L,L24N,Atlantic Av,subway_stop_L24N
+L,L,L22N,Broadway Junction,subway_stop_L22N
+L,L,L21N,Bushwick Av-Aberdeen St,subway_stop_L21N
+L,L,L20N,Wilson Av,subway_stop_L20N
+L,L,L19N,Halsey St,subway_stop_L19N
+L,L,L17N,Myrtle-Wyckoff Avs,subway_stop_L17N
+L,L,L16N,DeKalb Av,subway_stop_L16N
+L,L,L15N,Jefferson St,subway_stop_L15N
+L,L,L14N,Morgan Av,subway_stop_L14N
+L,L,L13N,Montrose Av,subway_stop_L13N
+L,L,L12N,Grand St,subway_stop_L12N
+L,L,L11N,Graham Av,subway_stop_L11N
+L,L,L10N,Lorimer St,subway_stop_L10N
+L,L,L08N,Bedford Av,subway_stop_L08N
+L,L,L06N,1 Av,subway_stop_L06N
+L,L,L05N,3 Av,subway_stop_L05N
+L,L,L03N,14 St-Union Sq,subway_stop_L03N
+L,L,L02N,6 Av,subway_stop_L02N
+L,L,L01N,8 Av,subway_stop_L01N
+L,L,L01S,8 Av,subway_stop_L01S
+L,L,L02S,6 Av,subway_stop_L02S
+L,L,L03S,14 St-Union Sq,subway_stop_L03S
+L,L,L05S,3 Av,subway_stop_L05S
+L,L,L06S,1 Av,subway_stop_L06S
+L,L,L08S,Bedford Av,subway_stop_L08S
+L,L,L10S,Lorimer St,subway_stop_L10S
+L,L,L11S,Graham Av,subway_stop_L11S
+L,L,L12S,Grand St,subway_stop_L12S
+L,L,L13S,Montrose Av,subway_stop_L13S
+L,L,L14S,Morgan Av,subway_stop_L14S
+L,L,L15S,Jefferson St,subway_stop_L15S
+L,L,L16S,DeKalb Av,subway_stop_L16S
+L,L,L17S,Myrtle-Wyckoff Avs,subway_stop_L17S
+L,L,L19S,Halsey St,subway_stop_L19S
+L,L,L20S,Wilson Av,subway_stop_L20S
+L,L,L21S,Bushwick Av-Aberdeen St,subway_stop_L21S
+L,L,L22S,Broadway Junction,subway_stop_L22S
+L,L,L24S,Atlantic Av,subway_stop_L24S
+L,L,L25S,Sutter Av,subway_stop_L25S
+L,L,L26S,Livonia Av,subway_stop_L26S
+L,L,L27S,New Lots Av,subway_stop_L27S
+L,L,L28S,East 105 St,subway_stop_L28S
+L,L,L29S,Canarsie-Rockaway Pkwy,subway_stop_L29S
+M,M,M11S,Myrtle Av,subway_stop_M11S
+M,M,M10S,Central Av,subway_stop_M10S
+M,M,M09S,Knickerbocker Av,subway_stop_M09S
+M,M,M08S,Myrtle-Wyckoff Avs,subway_stop_M08S
+M,M,M06S,Seneca Av,subway_stop_M06S
+M,M,M05S,Forest Av,subway_stop_M05S
+M,M,M04S,Fresh Pond Rd,subway_stop_M04S
+M,M,M01S,Middle Village-Metropolitan Av,subway_stop_M01S
+M,M,M18S,Delancey St-Essex St,subway_stop_M18S
+M,M,M16S,Marcy Av,subway_stop_M16S
+M,M,M14S,Hewes St,subway_stop_M14S
+M,M,M13S,Lorimer St,subway_stop_M13S
+M,M,M12S,Flushing Av,subway_stop_M12S
+M,M,M01N,Middle Village-Metropolitan Av,subway_stop_M01N
+M,M,M04N,Fresh Pond Rd,subway_stop_M04N
+M,M,M05N,Forest Av,subway_stop_M05N
+M,M,M06N,Seneca Av,subway_stop_M06N
+M,M,M08N,Myrtle-Wyckoff Avs,subway_stop_M08N
+M,M,M09N,Knickerbocker Av,subway_stop_M09N
+M,M,M10N,Central Av,subway_stop_M10N
+M,M,M11N,Myrtle Av,subway_stop_M11N
+M,M,M12N,Flushing Av,subway_stop_M12N
+M,M,M13N,Lorimer St,subway_stop_M13N
+M,M,M14N,Hewes St,subway_stop_M14N
+M,M,M16N,Marcy Av,subway_stop_M16N
+M,M,M18N,Delancey St-Essex St,subway_stop_M18N
+M,M,G08S,Forest Hills-71 Av,subway_stop_G08S
+M,M,G09S,67 Av,subway_stop_G09S
+M,M,G10S,63 Dr-Rego Park,subway_stop_G10S
+M,M,G11S,Woodhaven Blvd,subway_stop_G11S
+M,M,G12S,Grand Av-Newtown,subway_stop_G12S
+M,M,G13S,Elmhurst Av,subway_stop_G13S
+M,M,G14S,Jackson Hts-Roosevelt Av,subway_stop_G14S
+M,M,G15S,65 St,subway_stop_G15S
+M,M,G16S,Northern Blvd,subway_stop_G16S
+M,M,G18S,46 St,subway_stop_G18S
+M,M,G19S,Steinway St,subway_stop_G19S
+M,M,G20S,36 St,subway_stop_G20S
+M,M,G21S,Queens Plaza,subway_stop_G21S
+M,M,F09S,Court Sq-23 St,subway_stop_F09S
+M,M,F11S,Lexington Av/53 St,subway_stop_F11S
+M,M,F12S,5 Av/53 St,subway_stop_F12S
+M,M,D15S,47-50 Sts-Rockefeller Ctr,subway_stop_D15S
+M,M,D16S,42 St-Bryant Pk,subway_stop_D16S
+M,M,D17S,34 St-Herald Sq,subway_stop_D17S
+M,M,D18S,23 St,subway_stop_D18S
+M,M,D19S,14 St,subway_stop_D19S
+M,M,D20S,W 4 St-Wash Sq,subway_stop_D20S
+M,M,D21S,Broadway-Lafayette St,subway_stop_D21S
+M,M,D21N,Broadway-Lafayette St,subway_stop_D21N
+M,M,D20N,W 4 St-Wash Sq,subway_stop_D20N
+M,M,D19N,14 St,subway_stop_D19N
+M,M,D18N,23 St,subway_stop_D18N
+M,M,D17N,34 St-Herald Sq,subway_stop_D17N
+M,M,D16N,42 St-Bryant Pk,subway_stop_D16N
+M,M,D15N,47-50 Sts-Rockefeller Ctr,subway_stop_D15N
+M,M,F12N,5 Av/53 St,subway_stop_F12N
+M,M,F11N,Lexington Av/53 St,subway_stop_F11N
+M,M,F09N,Court Sq-23 St,subway_stop_F09N
+M,M,G21N,Queens Plaza,subway_stop_G21N
+M,M,G20N,36 St,subway_stop_G20N
+M,M,G19N,Steinway St,subway_stop_G19N
+M,M,G18N,46 St,subway_stop_G18N
+M,M,G16N,Northern Blvd,subway_stop_G16N
+M,M,G15N,65 St,subway_stop_G15N
+M,M,G14N,Jackson Hts-Roosevelt Av,subway_stop_G14N
+M,M,G13N,Elmhurst Av,subway_stop_G13N
+M,M,G12N,Grand Av-Newtown,subway_stop_G12N
+M,M,G11N,Woodhaven Blvd,subway_stop_G11N
+M,M,G10N,63 Dr-Rego Park,subway_stop_G10N
+M,M,G09N,67 Av,subway_stop_G09N
+M,M,G08N,Forest Hills-71 Av,subway_stop_G08N
+N,N,R01S,Astoria-Ditmars Blvd,subway_stop_R01S
+N,N,R03S,Astoria Blvd,subway_stop_R03S
+N,N,R04S,30 Av,subway_stop_R04S
+N,N,R05S,Broadway,subway_stop_R05S
+N,N,R06S,36 Av,subway_stop_R06S
+N,N,R08S,39 Av-Dutch Kills,subway_stop_R08S
+N,N,R09S,Queensboro Plaza,subway_stop_R09S
+N,N,R11S,Lexington Av/59 St,subway_stop_R11S
+N,N,R13S,5 Av/59 St,subway_stop_R13S
+N,N,R14S,57 St-7 Av,subway_stop_R14S
+N,N,R15S,49 St,subway_stop_R15S
+N,N,R16S,Times Sq-42 St,subway_stop_R16S
+N,N,R17S,34 St-Herald Sq,subway_stop_R17S
+N,N,R18S,28 St,subway_stop_R18S
+N,N,R19S,23 St,subway_stop_R19S
+N,N,R20S,14 St-Union Sq,subway_stop_R20S
+N,N,R21S,8 St-NYU,subway_stop_R21S
+N,N,R22S,Prince St,subway_stop_R22S
+N,N,R23S,Canal St,subway_stop_R23S
+N,N,R24S,City Hall,subway_stop_R24S
+N,N,R25S,Cortlandt St,subway_stop_R25S
+N,N,R26S,Rector St,subway_stop_R26S
+N,N,R27S,Whitehall St-South Ferry,subway_stop_R27S
+N,N,R28S,Court St,subway_stop_R28S
+N,N,R29S,Jay St-MetroTech,subway_stop_R29S
+N,N,R30S,DeKalb Av,subway_stop_R30S
+N,N,R31S,Atlantic Av-Barclays Ctr,subway_stop_R31S
+N,N,R32S,Union St,subway_stop_R32S
+N,N,R33S,4 Av-9 St,subway_stop_R33S
+N,N,R34S,Prospect Av,subway_stop_R34S
+N,N,R35S,25 St,subway_stop_R35S
+N,N,R36S,36 St,subway_stop_R36S
+N,N,R39S,45 St,subway_stop_R39S
+N,N,R40S,53 St,subway_stop_R40S
+N,N,R41S,59 St,subway_stop_R41S
+N,N,N02S,8 Av,subway_stop_N02S
+N,N,N03S,Fort Hamilton Pkwy,subway_stop_N03S
+N,N,N04S,New Utrecht Av,subway_stop_N04S
+N,N,N05S,18 Av,subway_stop_N05S
+N,N,N06S,20 Av,subway_stop_N06S
+N,N,N07S,Bay Pkwy,subway_stop_N07S
+N,N,N08S,Kings Hwy,subway_stop_N08S
+N,N,N09S,Avenue U,subway_stop_N09S
+N,N,N10S,86 St,subway_stop_N10S
+N,N,D43S,Coney Island-Stillwell Av,subway_stop_D43S
+N,N,Q01S,Canal St,subway_stop_Q01S
+N,N,D43N,Coney Island-Stillwell Av,subway_stop_D43N
+N,N,N10N,86 St,subway_stop_N10N
+N,N,N09N,Avenue U,subway_stop_N09N
+N,N,N08N,Kings Hwy,subway_stop_N08N
+N,N,N07N,Bay Pkwy,subway_stop_N07N
+N,N,N06N,20 Av,subway_stop_N06N
+N,N,N05N,18 Av,subway_stop_N05N
+N,N,N04N,New Utrecht Av,subway_stop_N04N
+N,N,N03N,Fort Hamilton Pkwy,subway_stop_N03N
+N,N,N02N,8 Av,subway_stop_N02N
+N,N,R41N,59 St,subway_stop_R41N
+N,N,R40N,53 St,subway_stop_R40N
+N,N,R39N,45 St,subway_stop_R39N
+N,N,R36N,36 St,subway_stop_R36N
+N,N,R35N,25 St,subway_stop_R35N
+N,N,R34N,Prospect Av,subway_stop_R34N
+N,N,R33N,4 Av-9 St,subway_stop_R33N
+N,N,R32N,Union St,subway_stop_R32N
+N,N,R31N,Atlantic Av-Barclays Ctr,subway_stop_R31N
+N,N,R30N,DeKalb Av,subway_stop_R30N
+N,N,R29N,Jay St-MetroTech,subway_stop_R29N
+N,N,R28N,Court St,subway_stop_R28N
+N,N,R27N,Whitehall St-South Ferry,subway_stop_R27N
+N,N,R26N,Rector St,subway_stop_R26N
+N,N,R25N,Cortlandt St,subway_stop_R25N
+N,N,R24N,City Hall,subway_stop_R24N
+N,N,R23N,Canal St,subway_stop_R23N
+N,N,R22N,Prince St,subway_stop_R22N
+N,N,R21N,8 St-NYU,subway_stop_R21N
+N,N,R20N,14 St-Union Sq,subway_stop_R20N
+N,N,R19N,23 St,subway_stop_R19N
+N,N,R18N,28 St,subway_stop_R18N
+N,N,R17N,34 St-Herald Sq,subway_stop_R17N
+N,N,R16N,Times Sq-42 St,subway_stop_R16N
+N,N,R15N,49 St,subway_stop_R15N
+N,N,R14N,57 St-7 Av,subway_stop_R14N
+N,N,R13N,5 Av/59 St,subway_stop_R13N
+N,N,R11N,Lexington Av/59 St,subway_stop_R11N
+N,N,R09N,Queensboro Plaza,subway_stop_R09N
+N,N,R08N,39 Av-Dutch Kills,subway_stop_R08N
+N,N,R06N,36 Av,subway_stop_R06N
+N,N,R05N,Broadway,subway_stop_R05N
+N,N,R04N,30 Av,subway_stop_R04N
+N,N,R03N,Astoria Blvd,subway_stop_R03N
+N,N,R01N,Astoria-Ditmars Blvd,subway_stop_R01N
+N,N,Q01N,Canal St,subway_stop_Q01N
+W,W,R01S,Astoria-Ditmars Blvd,subway_stop_R01S
+W,W,R03S,Astoria Blvd,subway_stop_R03S
+W,W,R04S,30 Av,subway_stop_R04S
+W,W,R05S,Broadway,subway_stop_R05S
+W,W,R06S,36 Av,subway_stop_R06S
+W,W,R08S,39 Av-Dutch Kills,subway_stop_R08S
+W,W,R09S,Queensboro Plaza,subway_stop_R09S
+W,W,R11S,Lexington Av/59 St,subway_stop_R11S
+W,W,R13S,5 Av/59 St,subway_stop_R13S
+W,W,R14S,57 St-7 Av,subway_stop_R14S
+W,W,R15S,49 St,subway_stop_R15S
+W,W,R16S,Times Sq-42 St,subway_stop_R16S
+W,W,R17S,34 St-Herald Sq,subway_stop_R17S
+W,W,R18S,28 St,subway_stop_R18S
+W,W,R19S,23 St,subway_stop_R19S
+W,W,R20S,14 St-Union Sq,subway_stop_R20S
+W,W,R21S,8 St-NYU,subway_stop_R21S
+W,W,R22S,Prince St,subway_stop_R22S
+W,W,R23S,Canal St,subway_stop_R23S
+W,W,R24S,City Hall,subway_stop_R24S
+W,W,R25S,Cortlandt St,subway_stop_R25S
+W,W,R26S,Rector St,subway_stop_R26S
+W,W,R27S,Whitehall St-South Ferry,subway_stop_R27S
+N,N,Q05S,96 St,subway_stop_Q05S
+N,N,Q04S,86 St,subway_stop_Q04S
+N,N,Q03S,72 St,subway_stop_Q03S
+N,N,B08S,Lexington Av/63 St,subway_stop_B08S
+Q,Q,D43N,Coney Island-Stillwell Av,subway_stop_D43N
+Q,Q,N10N,86 St,subway_stop_N10N
+Q,Q,N09N,Avenue U,subway_stop_N09N
+Q,Q,N08N,Kings Hwy,subway_stop_N08N
+Q,Q,N07N,Bay Pkwy,subway_stop_N07N
+Q,Q,N06N,20 Av,subway_stop_N06N
+Q,Q,N05N,18 Av,subway_stop_N05N
+Q,Q,N04N,New Utrecht Av,subway_stop_N04N
+Q,Q,N03N,Fort Hamilton Pkwy,subway_stop_N03N
+Q,Q,N02N,8 Av,subway_stop_N02N
+Q,Q,R41N,59 St,subway_stop_R41N
+Q,Q,R36N,36 St,subway_stop_R36N
+Q,Q,R31N,Atlantic Av-Barclays Ctr,subway_stop_R31N
+Q,Q,Q01N,Canal St,subway_stop_Q01N
+Q,Q,R20N,14 St-Union Sq,subway_stop_R20N
+Q,Q,R17N,34 St-Herald Sq,subway_stop_R17N
+Q,Q,R16N,Times Sq-42 St,subway_stop_R16N
+Q,Q,R14N,57 St-7 Av,subway_stop_R14N
+Q,Q,B08N,Lexington Av/63 St,subway_stop_B08N
+Q,Q,Q03N,72 St,subway_stop_Q03N
+Q,Q,Q04N,86 St,subway_stop_Q04N
+Q,Q,Q05N,96 St,subway_stop_Q05N
+W,W,R28S,Court St,subway_stop_R28S
+W,W,R29S,Jay St-MetroTech,subway_stop_R29S
+W,W,R30S,DeKalb Av,subway_stop_R30S
+W,W,R31S,Atlantic Av-Barclays Ctr,subway_stop_R31S
+W,W,R32S,Union St,subway_stop_R32S
+W,W,R33S,4 Av-9 St,subway_stop_R33S
+W,W,R34S,Prospect Av,subway_stop_R34S
+W,W,R35S,25 St,subway_stop_R35S
+W,W,R36S,36 St,subway_stop_R36S
+W,W,R39S,45 St,subway_stop_R39S
+W,W,R40S,53 St,subway_stop_R40S
+W,W,R41S,59 St,subway_stop_R41S
+W,W,N02S,8 Av,subway_stop_N02S
+W,W,N03S,Fort Hamilton Pkwy,subway_stop_N03S
+W,W,N04S,New Utrecht Av,subway_stop_N04S
+W,W,N05S,18 Av,subway_stop_N05S
+W,W,N06S,20 Av,subway_stop_N06S
+W,W,N07S,Bay Pkwy,subway_stop_N07S
+W,W,N08S,Kings Hwy,subway_stop_N08S
+W,W,N09S,Avenue U,subway_stop_N09S
+W,W,N10S,86 St,subway_stop_N10S
+W,W,R27N,Whitehall St-South Ferry,subway_stop_R27N
+W,W,R26N,Rector St,subway_stop_R26N
+W,W,R25N,Cortlandt St,subway_stop_R25N
+W,W,R24N,City Hall,subway_stop_R24N
+W,W,R23N,Canal St,subway_stop_R23N
+W,W,R22N,Prince St,subway_stop_R22N
+W,W,R21N,8 St-NYU,subway_stop_R21N
+W,W,R20N,14 St-Union Sq,subway_stop_R20N
+W,W,R19N,23 St,subway_stop_R19N
+W,W,R18N,28 St,subway_stop_R18N
+W,W,R17N,34 St-Herald Sq,subway_stop_R17N
+W,W,R16N,Times Sq-42 St,subway_stop_R16N
+W,W,R15N,49 St,subway_stop_R15N
+W,W,R14N,57 St-7 Av,subway_stop_R14N
+W,W,R13N,5 Av/59 St,subway_stop_R13N
+W,W,R11N,Lexington Av/59 St,subway_stop_R11N
+W,W,R09N,Queensboro Plaza,subway_stop_R09N
+W,W,R08N,39 Av-Dutch Kills,subway_stop_R08N
+W,W,R06N,36 Av,subway_stop_R06N
+W,W,R05N,Broadway,subway_stop_R05N
+W,W,R04N,30 Av,subway_stop_R04N
+W,W,R03N,Astoria Blvd,subway_stop_R03N
+W,W,R01N,Astoria-Ditmars Blvd,subway_stop_R01N
+W,W,N10N,86 St,subway_stop_N10N
+W,W,N09N,Avenue U,subway_stop_N09N
+W,W,N08N,Kings Hwy,subway_stop_N08N
+W,W,N07N,Bay Pkwy,subway_stop_N07N
+W,W,N06N,20 Av,subway_stop_N06N
+W,W,N05N,18 Av,subway_stop_N05N
+W,W,N04N,New Utrecht Av,subway_stop_N04N
+W,W,N03N,Fort Hamilton Pkwy,subway_stop_N03N
+W,W,N02N,8 Av,subway_stop_N02N
+W,W,R41N,59 St,subway_stop_R41N
+W,W,R40N,53 St,subway_stop_R40N
+W,W,R39N,45 St,subway_stop_R39N
+W,W,R36N,36 St,subway_stop_R36N
+W,W,R35N,25 St,subway_stop_R35N
+W,W,R34N,Prospect Av,subway_stop_R34N
+W,W,R33N,4 Av-9 St,subway_stop_R33N
+W,W,R32N,Union St,subway_stop_R32N
+W,W,R31N,Atlantic Av-Barclays Ctr,subway_stop_R31N
+W,W,R30N,DeKalb Av,subway_stop_R30N
+W,W,R29N,Jay St-MetroTech,subway_stop_R29N
+W,W,R28N,Court St,subway_stop_R28N
+Q,Q,Q05S,96 St,subway_stop_Q05S
+Q,Q,Q04S,86 St,subway_stop_Q04S
+Q,Q,Q03S,72 St,subway_stop_Q03S
+Q,Q,B08S,Lexington Av/63 St,subway_stop_B08S
+Q,Q,R14S,57 St-7 Av,subway_stop_R14S
+Q,Q,R15S,49 St,subway_stop_R15S
+Q,Q,R16S,Times Sq-42 St,subway_stop_R16S
+Q,Q,R17S,34 St-Herald Sq,subway_stop_R17S
+Q,Q,R18S,28 St,subway_stop_R18S
+Q,Q,R19S,23 St,subway_stop_R19S
+Q,Q,R20S,14 St-Union Sq,subway_stop_R20S
+Q,Q,R21S,8 St-NYU,subway_stop_R21S
+Q,Q,R22S,Prince St,subway_stop_R22S
+Q,Q,Q01S,Canal St,subway_stop_Q01S
+Q,Q,R30S,DeKalb Av,subway_stop_R30S
+Q,Q,D24S,Atlantic Av-Barclays Ctr,subway_stop_D24S
+Q,Q,D25S,7 Av,subway_stop_D25S
+Q,Q,D26S,Prospect Park,subway_stop_D26S
+Q,Q,D27S,Parkside Av,subway_stop_D27S
+Q,Q,D28S,Church Av,subway_stop_D28S
+Q,Q,D29S,Beverley Rd,subway_stop_D29S
+Q,Q,D30S,Cortelyou Rd,subway_stop_D30S
+Q,Q,D31S,Newkirk Plaza,subway_stop_D31S
+Q,Q,D32S,Avenue H,subway_stop_D32S
+Q,Q,D33S,Avenue J,subway_stop_D33S
+Q,Q,D34S,Avenue M,subway_stop_D34S
+Q,Q,D35S,Kings Hwy,subway_stop_D35S
+Q,Q,D37S,Avenue U,subway_stop_D37S
+Q,Q,D38S,Neck Rd,subway_stop_D38S
+Q,Q,D39S,Sheepshead Bay,subway_stop_D39S
+Q,Q,D40S,Brighton Beach,subway_stop_D40S
+Q,Q,D41S,Ocean Pkwy,subway_stop_D41S
+Q,Q,D42S,W 8 St-NY Aquarium,subway_stop_D42S
+Q,Q,D43S,Coney Island-Stillwell Av,subway_stop_D43S
+Q,Q,D42N,W 8 St-NY Aquarium,subway_stop_D42N
+Q,Q,D41N,Ocean Pkwy,subway_stop_D41N
+Q,Q,D40N,Brighton Beach,subway_stop_D40N
+Q,Q,D39N,Sheepshead Bay,subway_stop_D39N
+Q,Q,D38N,Neck Rd,subway_stop_D38N
+Q,Q,D37N,Avenue U,subway_stop_D37N
+Q,Q,D35N,Kings Hwy,subway_stop_D35N
+Q,Q,D34N,Avenue M,subway_stop_D34N
+Q,Q,D33N,Avenue J,subway_stop_D33N
+Q,Q,D32N,Avenue H,subway_stop_D32N
+Q,Q,D31N,Newkirk Plaza,subway_stop_D31N
+Q,Q,D30N,Cortelyou Rd,subway_stop_D30N
+Q,Q,D29N,Beverley Rd,subway_stop_D29N
+Q,Q,D28N,Church Av,subway_stop_D28N
+Q,Q,D27N,Parkside Av,subway_stop_D27N
+Q,Q,D26N,Prospect Park,subway_stop_D26N
+Q,Q,D25N,7 Av,subway_stop_D25N
+Q,Q,D24N,Atlantic Av-Barclays Ctr,subway_stop_D24N
+Q,Q,R30N,DeKalb Av,subway_stop_R30N
+Q,Q,R22N,Prince St,subway_stop_R22N
+Q,Q,R21N,8 St-NYU,subway_stop_R21N
+Q,Q,R19N,23 St,subway_stop_R19N
+Q,Q,R18N,28 St,subway_stop_R18N
+Q,Q,R15N,49 St,subway_stop_R15N
+R,R,G08S,Forest Hills-71 Av,subway_stop_G08S
+R,R,G09S,67 Av,subway_stop_G09S
+R,R,G10S,63 Dr-Rego Park,subway_stop_G10S
+R,R,G11S,Woodhaven Blvd,subway_stop_G11S
+R,R,G12S,Grand Av-Newtown,subway_stop_G12S
+R,R,G13S,Elmhurst Av,subway_stop_G13S
+R,R,G14S,Jackson Hts-Roosevelt Av,subway_stop_G14S
+R,R,G15S,65 St,subway_stop_G15S
+R,R,G16S,Northern Blvd,subway_stop_G16S
+R,R,G18S,46 St,subway_stop_G18S
+R,R,G19S,Steinway St,subway_stop_G19S
+R,R,G20S,36 St,subway_stop_G20S
+R,R,G21S,Queens Plaza,subway_stop_G21S
+R,R,R11S,Lexington Av/59 St,subway_stop_R11S
+R,R,R13S,5 Av/59 St,subway_stop_R13S
+R,R,R14S,57 St-7 Av,subway_stop_R14S
+R,R,R15S,49 St,subway_stop_R15S
+R,R,R16S,Times Sq-42 St,subway_stop_R16S
+R,R,R17S,34 St-Herald Sq,subway_stop_R17S
+R,R,R18S,28 St,subway_stop_R18S
+R,R,R19S,23 St,subway_stop_R19S
+R,R,R20S,14 St-Union Sq,subway_stop_R20S
+R,R,R21S,8 St-NYU,subway_stop_R21S
+R,R,R22S,Prince St,subway_stop_R22S
+R,R,R23S,Canal St,subway_stop_R23S
+R,R,R24S,City Hall,subway_stop_R24S
+R,R,R25S,Cortlandt St,subway_stop_R25S
+R,R,R26S,Rector St,subway_stop_R26S
+R,R,R27S,Whitehall St-South Ferry,subway_stop_R27S
+R,R,R28S,Court St,subway_stop_R28S
+R,R,R29S,Jay St-MetroTech,subway_stop_R29S
+R,R,R30S,DeKalb Av,subway_stop_R30S
+R,R,R31S,Atlantic Av-Barclays Ctr,subway_stop_R31S
+R,R,R32S,Union St,subway_stop_R32S
+R,R,R33S,4 Av-9 St,subway_stop_R33S
+R,R,R34S,Prospect Av,subway_stop_R34S
+R,R,R35S,25 St,subway_stop_R35S
+R,R,R36S,36 St,subway_stop_R36S
+R,R,R39S,45 St,subway_stop_R39S
+R,R,R40S,53 St,subway_stop_R40S
+R,R,R41S,59 St,subway_stop_R41S
+R,R,R42S,Bay Ridge Av,subway_stop_R42S
+R,R,R43S,77 St,subway_stop_R43S
+R,R,R44S,86 St,subway_stop_R44S
+R,R,R45S,Bay Ridge-95 St,subway_stop_R45S
+R,R,R45N,Bay Ridge-95 St,subway_stop_R45N
+R,R,R44N,86 St,subway_stop_R44N
+R,R,R43N,77 St,subway_stop_R43N
+R,R,R42N,Bay Ridge Av,subway_stop_R42N
+R,R,R41N,59 St,subway_stop_R41N
+R,R,R40N,53 St,subway_stop_R40N
+R,R,R39N,45 St,subway_stop_R39N
+R,R,R36N,36 St,subway_stop_R36N
+R,R,R35N,25 St,subway_stop_R35N
+R,R,R34N,Prospect Av,subway_stop_R34N
+R,R,R33N,4 Av-9 St,subway_stop_R33N
+R,R,R32N,Union St,subway_stop_R32N
+R,R,R31N,Atlantic Av-Barclays Ctr,subway_stop_R31N
+R,R,R30N,DeKalb Av,subway_stop_R30N
+R,R,R29N,Jay St-MetroTech,subway_stop_R29N
+R,R,R28N,Court St,subway_stop_R28N
+R,R,R27N,Whitehall St-South Ferry,subway_stop_R27N
+R,R,R26N,Rector St,subway_stop_R26N
+R,R,R25N,Cortlandt St,subway_stop_R25N
+R,R,R24N,City Hall,subway_stop_R24N
+R,R,R23N,Canal St,subway_stop_R23N
+R,R,R22N,Prince St,subway_stop_R22N
+R,R,R21N,8 St-NYU,subway_stop_R21N
+R,R,R20N,14 St-Union Sq,subway_stop_R20N
+R,R,R19N,23 St,subway_stop_R19N
+R,R,R18N,28 St,subway_stop_R18N
+R,R,R17N,34 St-Herald Sq,subway_stop_R17N
+R,R,R16N,Times Sq-42 St,subway_stop_R16N
+R,R,R15N,49 St,subway_stop_R15N
+R,R,R14N,57 St-7 Av,subway_stop_R14N
+R,R,R13N,5 Av/59 St,subway_stop_R13N
+R,R,R11N,Lexington Av/59 St,subway_stop_R11N
+R,R,G21N,Queens Plaza,subway_stop_G21N
+R,R,G20N,36 St,subway_stop_G20N
+R,R,G19N,Steinway St,subway_stop_G19N
+R,R,G18N,46 St,subway_stop_G18N
+R,R,G16N,Northern Blvd,subway_stop_G16N
+R,R,G15N,65 St,subway_stop_G15N
+R,R,G14N,Jackson Hts-Roosevelt Av,subway_stop_G14N
+R,R,G13N,Elmhurst Av,subway_stop_G13N
+R,R,G12N,Grand Av-Newtown,subway_stop_G12N
+R,R,G11N,Woodhaven Blvd,subway_stop_G11N
+R,R,G10N,63 Dr-Rego Park,subway_stop_G10N
+R,R,G09N,67 Av,subway_stop_G09N
+R,R,G08N,Forest Hills-71 Av,subway_stop_G08N
+R,R,B08N,Lexington Av/63 St,subway_stop_B08N
+R,R,Q03N,72 St,subway_stop_Q03N
+R,R,Q04N,86 St,subway_stop_Q04N
+R,R,Q05N,96 St,subway_stop_Q05N
+SI,SIR,S31S,St George,subway_stop_S31S
+SI,SIR,S30S,Tompkinsville,subway_stop_S30S
+SI,SIR,S29S,Stapleton,subway_stop_S29S
+SI,SIR,S28S,Clifton,subway_stop_S28S
+SI,SIR,S27S,Grasmere,subway_stop_S27S
+SI,SIR,S26S,Old Town,subway_stop_S26S
+SI,SIR,S25S,Dongan Hills,subway_stop_S25S
+SI,SIR,S24S,Jefferson Av,subway_stop_S24S
+SI,SIR,S23S,Grant City,subway_stop_S23S
+SI,SIR,S22S,New Dorp,subway_stop_S22S
+SI,SIR,S21S,Oakwood Heights,subway_stop_S21S
+SI,SIR,S20S,Bay Terrace,subway_stop_S20S
+SI,SIR,S19S,Great Kills,subway_stop_S19S
+SI,SIR,S18S,Eltingville,subway_stop_S18S
+SI,SIR,S17S,Annadale,subway_stop_S17S
+SI,SIR,S16S,Huguenot,subway_stop_S16S
+SI,SIR,S15S,Prince's Bay,subway_stop_S15S
+SI,SIR,S14S,Pleasant Plains,subway_stop_S14S
+SI,SIR,S13S,Richmond Valley,subway_stop_S13S
+SI,SIR,S11S,Arthur Kill,subway_stop_S11S
+SI,SIR,S09S,Tottenville,subway_stop_S09S
+SI,SIR,S09N,Tottenville,subway_stop_S09N
+SI,SIR,S11N,Arthur Kill,subway_stop_S11N
+SI,SIR,S13N,Richmond Valley,subway_stop_S13N
+SI,SIR,S14N,Pleasant Plains,subway_stop_S14N
+SI,SIR,S15N,Prince's Bay,subway_stop_S15N
+SI,SIR,S16N,Huguenot,subway_stop_S16N
+SI,SIR,S17N,Annadale,subway_stop_S17N
+SI,SIR,S18N,Eltingville,subway_stop_S18N
+SI,SIR,S19N,Great Kills,subway_stop_S19N
+SI,SIR,S20N,Bay Terrace,subway_stop_S20N
+SI,SIR,S21N,Oakwood Heights,subway_stop_S21N
+SI,SIR,S22N,New Dorp,subway_stop_S22N
+SI,SIR,S23N,Grant City,subway_stop_S23N
+SI,SIR,S24N,Jefferson Av,subway_stop_S24N
+SI,SIR,S25N,Dongan Hills,subway_stop_S25N
+SI,SIR,S26N,Old Town,subway_stop_S26N
+SI,SIR,S27N,Grasmere,subway_stop_S27N
+SI,SIR,S28N,Clifton,subway_stop_S28N
+SI,SIR,S29N,Stapleton,subway_stop_S29N
+SI,SIR,S30N,Tompkinsville,subway_stop_S30N
+SI,SIR,S31N,St George,subway_stop_S31N

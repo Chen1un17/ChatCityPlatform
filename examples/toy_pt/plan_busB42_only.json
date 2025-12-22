@@ -1,0 +1,15 @@
+{
+  "personId": "p0",
+  "depart": 0,
+  "legs": [
+    { "type": "walk", "from": { "edge": "C0D0" }, "to": { "busStop": "bus_stop_303345" } },
+    {
+      "type": "ride",
+      "from": { "busStop": "bus_stop_303345" },
+      "to": { "busStop": "bus_stop_306405" },
+      "lines": ["bus:B42"]
+    },
+    { "type": "walk", "from": { "busStop": "bus_stop_306405" }, "to": { "edge": "E0F0" } }
+  ]
+}
+

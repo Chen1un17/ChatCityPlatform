@@ -1,0 +1,6 @@
+{
+  "ods": [
+    { "personId": "p0", "depart": 0, "fromEdge": "A0B0", "toEdge": "E0F0" }
+  ]
+}
+

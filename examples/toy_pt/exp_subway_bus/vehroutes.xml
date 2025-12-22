@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2025-12-16T23:53:03.266249+08:00 by Eclipse SUMO sumo 1.25.0
+<sumoConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="toy.net.xml"/>
+        <route-files value="toy_pt_routes.rou.xml,person.rou.xml"/>
+        <additional-files value="toy_pt_stops.add.xml"/>
+    </input>
+
+    <output>
+        <summary-output value="summary.xml"/>
+        <tripinfo-output value="tripinfo.xml"/>
+        <personinfo-output value="personinfo.xml"/>
+        <vehroute-output value="vehroutes.xml"/>
+    </output>
+
+    <time>
+        <begin value="0"/>
+        <end value="3600"/>
+        <step-length value="1"/>
+    </time>
+
+    <processing>
+        <time-to-teleport value="-1"/>
+    </processing>
+
+    <routing>
+        <routing-algorithm value="dijkstra"/>
+    </routing>
+
+</sumoConfiguration>
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <vehicle id="subway1_0" type="pt_subway" depart="0.00" line="1" arrival="190.00">
+        <route edges="A0B0 B0C0 C0D0"/>
+        <stop busStop="subway_stop_101S" until="60.00"/>
+        <stop busStop="subway_stop_205N" until="180.00"/>
+    </vehicle>
+
+    <person id="p0" depart="0.00" arrival="283.00">
+        <walk edges="A0B0" busStop="subway_stop_101S"/>
+        <ride from="A0B0" to="C0D0" busStop="subway_stop_205N" lines="1"/>
+        <walk edges="C0D0" busStop="bus_stop_303345"/>
+        <ride from="C0D0" to="E0F0" busStop="bus_stop_306405" lines="B42"/>
+        <walk edges="E0F0"/>
+    </person>
+
+    <vehicle id="busB42_0" type="pt_bus" depart="180.00" line="B42" arrival="428.00">
+        <route edges="C0D0 D0E0 E0F0"/>
+        <stop busStop="bus_stop_303345" until="240.00"/>
+        <stop busStop="bus_stop_306405" until="420.00"/>
+    </vehicle>
+
+</routes>

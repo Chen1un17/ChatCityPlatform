@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2025-12-17T00:17:55.362293+08:00 by Eclipse SUMO sumo 1.25.0
+<sumoConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="toy.net.xml"/>
+        <route-files value="toy_pt_routes.rou.xml,person.rou.xml"/>
+        <additional-files value="toy_pt_stops.add.xml"/>
+    </input>
+
+    <output>
+        <summary-output value="summary.xml"/>
+        <tripinfo-output value="tripinfo.xml"/>
+        <personinfo-output value="personinfo.xml"/>
+        <vehroute-output value="vehroutes.xml"/>
+    </output>
+
+    <time>
+        <begin value="0"/>
+        <end value="3600"/>
+        <step-length value="1"/>
+    </time>
+
+    <processing>
+        <time-to-teleport value="-1"/>
+    </processing>
+
+    <routing>
+        <routing-algorithm value="dijkstra"/>
+    </routing>
+
+</sumoConfiguration>
+-->
+
+<tripinfos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/tripinfo_file.xsd">
+    <personinfo id="p0" depart="0.00" type="DEFAULT_PEDTYPE" speedFactor="1.06" duration="98.00" waitingTime="37.00" timeLoss="10.98" traveltime="61.00">
+        <walk depart="0.00" departPos="0.00" arrival="23.00" arrivalPos="30.00" duration="23.00" routeLength="30.00" timeLoss="2.62" maxSpeed="1.47" waitingTime="0.00"/>
+        <ride waitingTime="37.00" vehicle="subway1_0" depart="60.00" arrival="84.00" arrivalPos="40.00" duration="24.00" routeLength="242.00" timeLoss="6.58"/>
+        <walk depart="84.00" departPos="40.00" arrival="98.00" arrivalPos="58.00" duration="14.00" routeLength="18.00" timeLoss="1.77" maxSpeed="1.47" waitingTime="0.00"/>
+    </personinfo>
+</tripinfos>

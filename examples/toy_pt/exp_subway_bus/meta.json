@@ -1,0 +1,11 @@
+{
+  "plan": "examples/toy_pt/plan_subway1_busB42.json",
+  "usedLines": [
+    "1",
+    "B42"
+  ],
+  "begin": 0,
+  "end": 3600,
+  "copyInputs": true,
+  "sumocfg": "examples/toy_pt/exp_subway_bus/experiment.sumocfg"
+}
