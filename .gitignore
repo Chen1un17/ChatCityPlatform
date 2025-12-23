@@ -21,3 +21,4 @@ sumo_output/*.rou.xml
 sumo_output/*.add.xml
 examples/**/pt_*.rou.xml
 examples/**/persons.rou.xml
+!examples/od_planner/sample_nyc_bus/persons.rou.xml

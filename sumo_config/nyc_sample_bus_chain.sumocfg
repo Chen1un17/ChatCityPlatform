@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+               xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+  <input>
+    <!-- NYC network (not stored in this repo; place it at sumo_network/newyork.net.xml) -->
+    <net-file value="../sumo_network/newyork.net.xml"/>
+
+    <!-- PT vehicles + the sample person chain -->
+    <route-files value="../sumo_network/bus_routes_all_complete.rou.xml,../examples/od_planner/sample_nyc_bus/persons.rou.xml"/>
+
+    <!-- PT stop definitions -->
+    <additional-files value="../sumo_network/bus_stops_mapped.add.xml"/>
+  </input>
+
+  <time>
+    <!-- Cover the 7:00–9:00 PT window and a person departing at 8:00 -->
+    <begin value="25200"/>
+    <end value="32400"/>
+    <step-length value="1"/>
+  </time>
+
+  <report>
+    <verbose value="true"/>
+    <no-step-log value="true"/>
+  </report>
+
+</configuration>
+

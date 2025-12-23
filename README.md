@@ -105,6 +105,26 @@ python3 tools/od_plan_and_validate.py \
 `walk-factor` 说明：
 - TraCI `findIntermodalRoute` 中的 `walkFactor` 是“步行速度乘子”，越小越“慢”，更倾向选择公交/地铁（而不是全程 walk）。
 
+## 直接运行一次仿真（使用已合成的出行链）
+
+本仓库提供了一个可直接用于 SUMO 的样例 person routes：
+- `examples/od_planner/sample_nyc_bus/persons.rou.xml`
+
+运行：
+
+```bash
+sumo -c sumo_config/nyc_sample_bus_chain.sumocfg
+```
+
+如果你修改了 `examples/od_planner/sample_nyc_bus/explicit_chains.json`，可用下面命令重新生成 `persons.rou.xml`：
+
+```bash
+python3 tools/person_chain_to_sumo.py \
+  --plan examples/od_planner/sample_nyc_bus/plan.json \
+  --output examples/od_planner/sample_nyc_bus/persons.rou.xml \
+  --strict-continuity
+```
+
 ## 目录说明（保留/备份）
 
 - 运行必需：`Data/timetables/`、`sumo_network/`、`sumo_output/*_stops_route_mapping.csv`、`tools/`、`examples/od_planner/`

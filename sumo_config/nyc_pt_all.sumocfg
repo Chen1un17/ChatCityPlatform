@@ -7,10 +7,10 @@
         <net-file value="../sumo_network/newyork.net.xml"/>
 
         <!-- 多种公共交通线路 -->
-        <route-files value="../sumo_network/subway_routes_complete.rou.xml,../sumo_network/bus_routes_complete.rou.xml,../sumo_network/rail_routes_complete.rou.xml,../sumo_output/ferry_routes.rou.xml"/>
+        <route-files value="../sumo_network/subway_routes_complete.rou.xml,../sumo_network/bus_routes_all_complete.rou.xml"/>
 
         <!-- 站点定义 -->
-        <additional-files value="../sumo_network/subway_stops_mapped.add.xml,../sumo_network/bus_stops_mapped.add.xml,../sumo_network/rail_stops_mapped.add.xml,../sumo_network/ferry_stops_mapped.add.xml"/>
+        <additional-files value="../sumo_network/subway_stops_mapped.add.xml,../sumo_network/bus_stops_mapped.add.xml"/>
     </input>
 
     <time>
